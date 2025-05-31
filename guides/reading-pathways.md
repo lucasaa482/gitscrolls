@@ -33,9 +33,10 @@ Multiple journeys through the GitScrolls based on your needs and role.
 2. **Craft**: Scroll V - Compassionate Change
 3. **Resilience**: Scroll VI - Creative Chaos
 4. **Mentorship**: Scroll IX - Sacred Teaching
-5. **Philosophy**: [GitScrolls Cosmology](../meta/cosmology.md)
+5. **Completion**: Scroll X - The Return Home
+6. **Philosophy**: [GitScrolls Cosmology](../meta/cosmology.md)
 
-**Why this order**: Starts with self-reflection, refines technical practices, builds resilience, embraces teaching, and explores deeper meanings.
+**Why this order**: Starts with self-reflection, refines technical practices, builds resilience, embraces teaching, completes the circular cycle of mentorship, and explores deeper meanings.
 
 ### 🚀 The Startup Founder's Trail
 *For those building new ventures with conscious practices*
@@ -78,9 +79,10 @@ Multiple journeys through the GitScrolls based on your needs and role.
 2. **Time**: Scroll I - Sacred Timeline
 3. **Purpose**: Scroll VIII - Eternal Legacy
 4. **Wisdom**: Scroll VI - Creative Chaos
-5. **Synthesis**: The Reflection Scroll (`/meta/reflection-scroll.md`)
+5. **Completion**: Scroll X - The Return Home
+6. **Synthesis**: The Reflection Scroll (`/meta/reflection-scroll.md`)
 
-**Why this order**: Explores philosophical foundations, examines time and purpose, finds wisdom in chaos, and integrates all learnings.
+**Why this order**: Explores philosophical foundations, examines time and purpose, finds wisdom in chaos, experiences the circular completion of the journey, and integrates all learnings.
 
 ## Thematic Pathways
 
@@ -89,6 +91,12 @@ Multiple journeys through the GitScrolls based on your needs and role.
 - Scroll III - Oracle of Love  
 - Scroll IX - Sacred Teaching
 - Team Guide (`/guides/team-guide.md`)
+
+### The Teaching Path
+- Scroll III - Oracle of Love (compassionate communication)
+- Scroll IX - Sacred Teaching (the art of mentorship)
+- Scroll X - The Return Home (the eternal teaching cycle)
+- Mentoring Guide (`/guides/mentoring-guide.md`)
 
 ### Sustainable Development
 - Scroll VII - Sacred Timing
@@ -100,6 +108,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 - The Reflection Scroll
 - Scroll VI - Creative Chaos
 - Scroll IX - Sacred Teaching
+- Scroll X - The Return Home
 - Scroll VIII - Eternal Legacy
 
 ### Code Quality & Craft
