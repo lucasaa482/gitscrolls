@@ -126,7 +126,9 @@ __Tuxicles:__ "And commit messages?"
 
 __Teacher:__ "Commit messages are love letters to those humans. Make them love letters worth reading."
 
-_Tuxicles bows deeply, then approaches the terminal. He types:_
+_Tuxicles bows deeply, then approaches the terminal. As he begins to type, a notification appears in the corner of his screen: "Pipeline failed for branch 'feature/login-updates' - 3 test failures." He glances at it dismissively and clicks it away. Just flaky tests, probably. Nothing that can't wait until tomorrow._
+
+_He types:_
 
 ```
 commit 7f3a9e1
@@ -141,6 +143,8 @@ Now validates email format and presence before saving.
 
 Fixes #156 - Users not receiving welcome emails
 ```
+
+_As he hits enter, his terminal window flickers briefly—characters scrambling for a fraction of a second before resolving back to normal. Tuxicles blinks, wondering if his eyes are just tired from the long day of coding. The old CRT monitors in this place probably needed updating anyway._
 
 __Teacher:__ _(smiling)_ "Now __that__ is a message that honors the code and serves the future. Go forth, young penguin, and may your commit history be a beacon of clarity in a world of 'fix stuff' and 'wip.'"
 
