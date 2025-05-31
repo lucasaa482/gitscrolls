@@ -1,14 +1,3 @@
----
-title: 🐧 The GitScrolls 📜
-aliases:
-  - 🐧 The GitScrolls 📜
-linter-yaml-title-alias: 🐧 The GitScrolls 📜
-date created: Thursday, May 29th 2025, 8:28:41 pm
-date modified: Friday, May 30th 2025, 3:19:20 am
-created: 2025-05-29T20:28
-updated: 2025-05-30T03:19
----
-
 # 🐧 The GitScrolls 📜
 
 _Sacred wisdom for the journey from first commit to final teaching_
