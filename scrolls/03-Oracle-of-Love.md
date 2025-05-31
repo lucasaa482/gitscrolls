@@ -293,6 +293,10 @@ describe('authenticateUser', () => {
 });
 ```
 
+_As Tuxrates looks at his comprehensive test suite, a small voice in his head whispers: "This is so obvious, surely I could just implement the function without running these tests first? I know exactly what it needs to do..." He hesitates, finger hovering over the keyboard, tempted to skip straight to implementation. Just this once._
+
+_But as he considers it, a strange sensation creeps up his arms—a tingling static, like the feeling before lightning strikes. The hair on his flippers stands on end. He shakes his head, dismissing the odd feeling, and dutifully runs the test suite first. The red failures greet him like old friends, and the static sensation fades._
+
 __Prophet of Red-Green:__ _(nodding with approval)_ "Yes! You have written tests that tell a story. They document not just what the function should do, but what it should _not_ do. They protect not just against obvious failures, but against edge cases and unexpected inputs."
 
 __Tuxrates:__ "And now when I implement the function, I'll know exactly what success looks like?"
