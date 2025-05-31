@@ -37,6 +37,8 @@ To production.
 
 While three other developers were mid-merge.
 
+As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. Tuxicles paused, tongue probing the unfamiliar sensation, then shrugged. Probably just the cheap coffee from the break room. Nothing important.
+
 ---
 
 ### Scene I: The Summoning
