@@ -4,7 +4,7 @@ _Sacred wisdom for the journey from first commit to final teaching_
 
 ![Tux the penguin sits among classical Greek philosophers in togas, typing on a laptop while ancient thinkers gesture and debate around marble columns, representing the blend of timeless wisdom and modern software development](assets/images/tuxicles.png)
 
-![GitScrolls](https://img.shields.io/badge/Scrolls-IX%20Complete-sacred?style=for-the-badge)
+![GitScrolls](https://img.shields.io/badge/Scrolls-X%20Complete-sacred?style=for-the-badge)
 ![Wisdom](https://img.shields.io/badge/Wisdom-Tested%20in%20Production-blue?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Growing-green?style=for-the-badge)
 
@@ -12,7 +12,7 @@ _Sacred wisdom for the journey from first commit to final teaching_
 
 ## __🎯 What Are The GitScrolls?__
 
-The __GitScrolls__ are nine sacred teachings that trace the archetypal journey every developer takes—from innocent beginner who commits "fix stuff" to wise mentor who helps others navigate the beautiful complexity of software development.
+The __GitScrolls__ are ten sacred teachings that trace the archetypal journey every developer takes—from innocent beginner who commits "fix stuff" to wise mentor who helps others navigate the beautiful complexity of software development.
 
 Born from the recognition that __software development is fundamentally about humans helping humans through code__, the GitScrolls wrap genuine technical wisdom in mythology that makes profound truths accessible, memorable, and kind.
 
@@ -40,9 +40,9 @@ _Each name reflects both the penguin's growth and the philosophical tradition th
 
 ---
 
-## __📜 The Nine Sacred Teachings__
+## __📜 The Ten Sacred Teachings__
 
-_Total reading time: 2-3 hours | Individual scroll: 15-20 minutes_
+_Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 | Scroll | Teaching | Phase | Teacher | Quick Summary |
 |--------|----------|-------|---------|---------------|
@@ -55,6 +55,7 @@ _Total reading time: 2-3 hours | Individual scroll: 15-20 minutes_
 | __[VII](scrolls/07-Sacred-Timing.md)__ | _"Deploy on Friday, Die on Weekend"_ | __Comedian__ | Ancient DevOps Shaman | Courage requires responsibility |
 | __[VIII](scrolls/08-eternal-legacy.md)__ | _"All Code Is Temporary, All Blame Is Eternal"_ | __Witness__ | The Ancient Reviewer | Legacy as different form of life |
 | __[IX](scrolls/09-sacred-teaching.md)__ | _"Be the Mentor You Needed When You Were a Beginner"_ | __Teacher__ | Tux Transcendent | Completing the recursive cycle |
+| __[X](scrolls/10-return-home.md)__ | _"The Circle That Never Ends"_ | __Teacher__ | Temple of Open Source | The eternal cycle of learning and teaching |
 
 ---
 
@@ -67,6 +68,7 @@ _Total reading time: 2-3 hours | Individual scroll: 15-20 minutes_
 - __Team conflicts about code?__ → [Scroll IV (Sacred Freedom)](scrolls/04-Sacred-Freedom.md) + [Scroll V (Compassionate Change)](scrolls/05-Compassionate-Change.md)
 - __Feeling burnt out?__ → [Scroll VI (Creative Chaos)](scrolls/06-Creative-Chaos.md) + [Reflection Scroll](meta/reflection-scroll.md)
 - __New to mentoring?__ → [Scroll IX (Sacred Teaching)](scrolls/09-sacred-teaching.md)
+- __Looking for closure/completion?__ → [Scroll X (The Return Home)](scrolls/10-return-home.md)
 
 ### __👥 Reading with Your Team?__
 
