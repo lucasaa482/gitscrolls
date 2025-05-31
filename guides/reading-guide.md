@@ -23,7 +23,7 @@ __Preparation:__
 1. __The GitScrolls Cosmology__ - _Understanding the Sacred Universe_
 2. __The Complete GitScrolls Architecture__ - _The Map of the Journey_
 
-__The Nine Sacred Teachings:__
+__The Ten Sacred Teachings:__
 3. __GitScroll I: The Sacred Timeline__ - _"Thou Shalt Not Rewrite History"_
 4. __GitScroll II: Meaningful Messages__ - _"Commit Often, But With Intent"_  
 5. __GitScroll III: The Oracle's Proof of Love__ - _"Tests Are Proof of Love"_
@@ -33,9 +33,10 @@ __The Nine Sacred Teachings:__
 9. __GitScroll VII: Sacred Timing__ - _"Deploy on Friday, Die on Weekend"_
 10. __GitScroll VIII: Eternal Legacy__ - _"All Code Is Temporary, All Blame Is Eternal"_
 11. __GitScroll IX: Sacred Teaching__ - _"Be the Mentor You Needed When You Were a Beginner"_
+12. __GitScroll X: The Return Home__ - _"The Circle That Never Ends"_
 
 __Reflection:__
-12. __The Reflection Scroll__ - _On the Nature of Craft, Comedy, and the Sacred Commit_
+13. __The Reflection Scroll__ - _On the Nature of Craft, Comedy, and the Sacred Commit_
 
 ---
 
@@ -46,7 +47,7 @@ __Reflection:__
 - __Architecture__ (5 min overview)
 - __Scroll I__ (Sacred Timeline - foundational)
 - __Scroll III__ (Tests as Love - practical wisdom)
-- __Scroll IX__ (Teaching - completing the cycle)
+- __Scroll X__ (The Return Home - completing the cycle)
 - __Reflection Scroll__ (understanding the deeper meaning)
 
 ### __The Crisis Intervention Path__ _(For Developers in Specific Trouble)_
@@ -61,6 +62,7 @@ __Reflection:__
 
 - __Architecture__ (understand the complete journey)
 - __Scroll IX__ (the philosophy of teaching)
+- __Scroll X__ (the completion of the circular journey)
 - __Scroll I-III__ (foundational principles to teach first)
 - __Scroll V + VIII__ (advanced wisdom for senior discussions)
 - __Reflection Scroll__ (meta-framework for understanding growth)
@@ -71,6 +73,7 @@ __Reflection:__
 - __Scroll IV__ (freedom and community)
 - __Scroll VIII__ (legacy and meaning)
 - __Scroll IX__ (responsibility and service)
+- __Scroll X__ (the eternal cycle of teaching and return)
 - __Reflection Scroll__ (the nature of craft)
 
 ---
