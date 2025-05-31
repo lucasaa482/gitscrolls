@@ -86,15 +86,21 @@ __Key Theme:__ The melancholy of maintenance. How to care for systems you know a
 
 ---
 
-### __Phase V: The Transcendent Teacher (Scroll IX)__
+### __Phase V: The Transcendent Teacher (Scrolls IX-X)__
 
-_Completing the cycle by becoming the mentor_
+_Completing the cycle by becoming the mentor, then returning home to begin anew_
 
 __✅ Scroll IX - "Be the Mentor You Needed When You Were a N00b"__ _(Complete)_  
 __Teacher:__ Tux Transcendent, The Teacher Who Completes the Cycle  
 __Lesson:__ The cycle completes through teaching  
 __Growth:__ From student to sage  
 __Key Theme:__ The responsibility of knowledge. How wisdom becomes service.
+
+__✅ Scroll X - "The Return Home"__ _(Complete)_  
+__Teacher:__ The Temple of Open Source, The Living Community  
+__Lesson:__ Every ending is a new beginning; the circle that never ends  
+__Growth:__ From exile to return, from healing to wholeness, from teacher to eternal guide  
+__Key Theme:__ The circular nature of wisdom. How completion becomes commencement.
 
 ---
 
@@ -112,6 +118,8 @@ __Comedy → Tragedy:__ "I can laugh at the chaos, but there's real _cost_ to th
 
 __Tragedy → Transcendence:__ "I've seen the cost, but I choose to _teach_ anyway because hope is a choice."
 
+__Transcendence → Return:__ "I've learned to teach, but the cycle only continues when I create the conditions for others to follow the same journey."
+
 ### __The Emotional Journey__
 
 - __Fear__ (I'll break everything) → __Confidence__ (I understand the rules)
@@ -121,6 +129,7 @@ __Tragedy → Transcendence:__ "I've seen the cost, but I choose to _teach_ anyw
 - __Humor__ → __Melancholy__ (Everything we build fades)
 - __Melancholy__ → __Acceptance__ (Impermanence makes creation precious)
 - __Acceptance__ → __Service__ (I must pass this on)
+- __Service__ → __Completion__ (I am home, and home is where I help others begin their journey)
 
 ### __The Technical Progression__
 
@@ -132,6 +141,7 @@ __Tragedy → Transcendence:__ "I've seen the cost, but I choose to _teach_ anyw
 - __Pragmatic Skills__ (deployment, operations, real-world constraints)
 - __Wisdom Skills__ (legacy thinking, long-term perspective)
 - __Teaching Skills__ (mentoring, community building, knowledge transfer)
+- __Integration Skills__ (creating conditions for others to grow, building sustainable learning communities)
 
 ---
 
@@ -191,6 +201,15 @@ _"Knowledge hoarded is knowledge lost"_
 - How to critique without crushing
 - The cycle of mentorship that sustains the craft
 
+### __Scroll X: The Circular Return__
+
+_"Every ending is a new beginning"_
+
+- The completion that enables fresh starts
+- How exile transforms into homecoming through growth
+- Creating communities that catch and nurture the next generation
+- The eternal cycle: student → teacher → community builder → enabler of students
+
 ---
 
 ## Sacred Questions Each Phase Answers
@@ -199,8 +218,26 @@ __Innocent:__ _How do I not break things?_
 __Questioner:__ _Why do we do things this way?_  
 __Comedian:__ _How do we cope when things break anyway?_  
 __Tragic Witness:__ _What does it mean that everything we build dies?_  
-__Transcendent Teacher:__ _How do I help others navigate this journey?_
+__Transcendent Teacher:__ _How do I help others navigate this journey?_  
+__Returned Guide:__ _How do I create the conditions for this cycle to continue eternally?_
 
 ---
 
-_Thus is mapped the complete architecture of wisdom, from first commit to final mentorship, wherein every developer may see their own journey reflected._
+_Thus is mapped the complete architecture of wisdom, from first commit through mentorship and home to new beginnings, wherein every developer may see their own circular journey reflected—always ending where another developer begins._
+
+---
+
+## The Circular Architecture: Endings as Beginnings
+
+The GitScrolls follow a **circular structure** where Scroll X (The Return Home) completes the odyssey by creating the conditions for new odysseys to begin. This reflects the eternal truth that:
+
+- Every senior developer was once a confused beginner
+- Every teacher was once a struggling student  
+- Every community leader was once an outsider seeking belonging
+- Every mentor was once someone who needed mentoring
+
+The ten scrolls form a complete cycle that ends where it began—with a confused developer seeking guidance—but now there's a community and wisdom tradition ready to catch them, teach them, and eventually empower them to catch and teach others.
+
+**The Sacred Pattern:** Fear → Learning → Wisdom → Teaching → Community → New Fear (in the next developer) → New Learning...
+
+**The Eternal Cycle:** The completion of Scroll X doesn't end the story—it creates the foundation for countless new stories to begin.
