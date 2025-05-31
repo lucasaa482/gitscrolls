@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The GitScrolls - Sacred Developer Wisdom</title>
+    <meta name="description" content="Nine sacred teachings that trace the journey from first commit to final teaching. Developer wisdom wrapped in mythology.">
+    
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #64748b;
+            --accent: #f59e0b;
+            --bg: #0f172a;
+            --card: #1e293b;
+            --text: #f8fafc;
+            --text-muted: #cbd5e1;
+            --border: #334155;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        /* Header */
+        header {
+            padding: 2rem 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--accent);
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+        
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        
+        .nav-links a:hover {
+            color: var(--accent);
+        }
+        
+        /* Hero */
+        .hero {
+            padding: 4rem 0;
+            text-align: center;
+            background: linear-gradient(135deg, var(--bg) 0%, var(--card) 100%);
+        }
+        
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, var(--accent), var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .hero .subtitle {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+        
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #1d4ed8;
+            transform: translateY(-2px);
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: var(--text);
+            border: 2px solid var(--border);
+        }
+        
+        .btn-secondary:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+        
+        /* Quote Section */
+        .quote-section {
+            padding: 4rem 0;
+            background: var(--card);
+        }
+        
+        .quote {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .quote blockquote {
+            font-size: 1.5rem;
+            font-style: italic;
+            margin-bottom: 1rem;
+            color: var(--accent);
+        }
+        
+        .quote cite {
+            color: var(--text-muted);
+            font-size: 1rem;
+        }
+        
+        /* Scrolls Grid */
+        .scrolls-section {
+            padding: 4rem 0;
+        }
+        
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            color: var(--accent);
+        }
+        
+        .scrolls-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+        
+        .scroll-card {
+            background: var(--card);
+            padding: 2rem;
+            border-radius: 1rem;
+            border: 1px solid var(--border);
+            transition: all 0.3s;
+        }
+        
+        .scroll-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+        }
+        
+        .scroll-number {
+            display: inline-block;
+            width: 3rem;
+            height: 3rem;
+            border-radius: 50%;
+            background: var(--primary);
+            color: white;
+            text-align: center;
+            line-height: 3rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        
+        .scroll-title {
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+            color: var(--accent);
+        }
+        
+        .scroll-teaching {
+            font-style: italic;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .scroll-teacher {
+            font-size: 0.9rem;
+            color: var(--secondary);
+        }
+        
+        /* Journey Section */
+        .journey-section {
+            padding: 4rem 0;
+            background: var(--card);
+        }
+        
+        .journey-phases {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .phase {
+            text-align: center;
+            padding: 2rem;
+            border-radius: 1rem;
+            background: var(--bg);
+            border: 1px solid var(--border);
+        }
+        
+        .phase-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        
+        .phase-name {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+            color: var(--accent);
+        }
+        
+        .phase-description {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+        
+        /* Footer */
+        footer {
+            padding: 3rem 0;
+            border-top: 1px solid var(--border);
+            text-align: center;
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        
+        .footer-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+        }
+        
+        .footer-links a:hover {
+            color: var(--accent);
+        }
+        
+        .footer-quote {
+            color: var(--text-muted);
+            font-style: italic;
+            margin-top: 2rem;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+            
+            .nav-links {
+                display: none;
+            }
+            
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .btn {
+                width: 100%;
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">🐧 GitScrolls</div>
+            <ul class="nav-links">
+                <li><a href="#scrolls">The Nine Scrolls</a></li>
+                <li><a href="#journey">The Journey</a></li>
+                <li><a href="https://github.com/gitscrolls/gitscrolls">GitHub</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>The GitScrolls</h1>
+            <p class="subtitle">
+                Nine sacred teachings that trace the archetypal journey every developer takes—
+                from innocent beginner to wise mentor. Developer wisdom wrapped in mythology.
+            </p>
+            <div class="cta-buttons">
+                <a href="#scrolls" class="btn btn-primary">Begin the Journey</a>
+                <a href="https://github.com/gitscrolls/gitscrolls" class="btn btn-secondary">View on GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="quote-section">
+        <div class="container">
+            <div class="quote">
+                <blockquote>
+                    "In the beginning was the commit, and the commit was with Tux, and the commit was good."
+                </blockquote>
+                <cite>— From the GitScrolls, Book I: The Init of All Things</cite>
+            </div>
+        </div>
+    </section>
+
+    <section class="scrolls-section" id="scrolls">
+        <div class="container">
+            <h2 class="section-title">The Nine Sacred Teachings</h2>
+            <div class="scrolls-grid">
+                <div class="scroll-card">
+                    <div class="scroll-number">I</div>
+                    <h3 class="scroll-title">The Sacred Timeline</h3>
+                    <p class="scroll-teaching">"Thou Shalt Not Rewrite History"</p>
+                    <p class="scroll-teacher">Taught by Linus the Elder, Grandfather of Git</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">II</div>
+                    <h3 class="scroll-title">Meaningful Messages</h3>
+                    <p class="scroll-teaching">"Commit Often, But With Intent"</p>
+                    <p class="scroll-teacher">Taught by Teacher of Lost Packets</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">III</div>
+                    <h3 class="scroll-title">The Oracle's Proof</h3>
+                    <p class="scroll-teaching">"Tests Are Proof of Love"</p>
+                    <p class="scroll-teacher">Taught by Prophet of Red-Green</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">IV</div>
+                    <h3 class="scroll-title">Sacred Freedom</h3>
+                    <p class="scroll-teaching">"Forks Are Not Betrayals"</p>
+                    <p class="scroll-teacher">Taught by Fork-Bearer of Freedom</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">V</div>
+                    <h3 class="scroll-title">Compassionate Change</h3>
+                    <p class="scroll-teaching">"Refactor With Compassion"</p>
+                    <p class="scroll-teacher">Taught by The Wise Maintainer</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">VI</div>
+                    <h3 class="scroll-title">Creative Chaos</h3>
+                    <p class="scroll-teaching">"Every Bug Is a Feature Request"</p>
+                    <p class="scroll-teacher">Taught by The Trickster of GitHub Issues</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">VII</div>
+                    <h3 class="scroll-title">Sacred Timing</h3>
+                    <p class="scroll-teaching">"Deploy on Friday, Die on Weekend"</p>
+                    <p class="scroll-teacher">Taught by Ancient DevOps Shaman</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">VIII</div>
+                    <h3 class="scroll-title">Eternal Legacy</h3>
+                    <p class="scroll-teaching">"All Code Is Temporary, All Blame Is Eternal"</p>
+                    <p class="scroll-teacher">Taught by The Ancient Reviewer</p>
+                </div>
+                
+                <div class="scroll-card">
+                    <div class="scroll-number">IX</div>
+                    <h3 class="scroll-title">Sacred Teaching</h3>
+                    <p class="scroll-teaching">"Be the Mentor You Needed When You Were a Beginner"</p>
+                    <p class="scroll-teacher">Taught by Tux Transcendent</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="journey-section" id="journey">
+        <div class="container">
+            <h2 class="section-title">The Developer's Journey</h2>
+            <p style="text-align: center; color: var(--text-muted); max-width: 600px; margin: 0 auto;">
+                Every developer walks the same archetypal path, from confusion to wisdom. 
+                Which phase of the journey are you living now?
+            </p>
+            <div class="journey-phases">
+                <div class="phase">
+                    <div class="phase-icon">🐣</div>
+                    <div class="phase-name">Tuxicles</div>
+                    <div class="phase-description">The Innocent who learns discipline through breaking things</div>
+                </div>
+                
+                <div class="phase">
+                    <div class="phase-icon">🤔</div>
+                    <div class="phase-name">Tuxrates</div>
+                    <div class="phase-description">The Questioner who seeks deeper meaning in practices</div>
+                </div>
+                
+                <div class="phase">
+                    <div class="phase-icon">😄</div>
+                    <div class="phase-name">Tuxophanes</div>
+                    <div class="phase-description">The Comedian who finds joy in absurd complexity</div>
+                </div>
+                
+                <div class="phase">
+                    <div class="phase-icon">😌</div>
+                    <div class="phase-name">Tuxippides</div>
+                    <div class="phase-description">The Witness who accepts responsibility for consequences</div>
+                </div>
+                
+                <div class="phase">
+                    <div class="phase-icon">🧙</div>
+                    <div class="phase-name">Tux Transcendent</div>
+                    <div class="phase-description">The Teacher who completes the cycle by helping others</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="https://github.com/gitscrolls/gitscrolls">GitHub Repository</a>
+                <a href="https://github.com/gitscrolls/gitscrolls/discussions">Community</a>
+                <a href="https://github.com/gitscrolls/gitscrolls/blob/main/CONTRIBUTING.md">Contribute</a>
+            </div>
+            <p class="footer-quote">
+                "The code is not yours. The code is ours. And through sharing, we become eternal."<br>
+                <strong>🐧 May your commits be meaningful and your legacy be one of compassion. 📜</strong>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add subtle parallax effect to hero
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const hero = document.querySelector('.hero');
+            if (hero) {
+                hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+            }
+        });
+    </script>
+</body>
+</html>
