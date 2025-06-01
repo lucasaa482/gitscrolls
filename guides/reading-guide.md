@@ -25,7 +25,7 @@ __Preparation:__
 
 __The Ten Sacred Teachings:__
 3. __GitScroll I: The Unbroken Line__ - _"Thou Shalt Not Rewrite History"_
-4. __GitScroll II: Meaningful Messages__ - _"Commit Often, But With Intent"_  
+4. __GitScroll II: The Chronicle of Forgotten Messages__ - _"Commit Often, But With Intent"_  
 5. __GitScroll III: The Oracle's Proof of Love__ - _"Tests Are Proof of Love"_
 6. __GitScroll IV: Sacred Freedom__ - _"Forks Are Not Betrayals"_
 7. __GitScroll V: Compassionate Change__ - _"Refactor With Compassion"_

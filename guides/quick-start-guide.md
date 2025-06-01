@@ -17,7 +17,7 @@ At its heart, GitScrolls teaches that:
 ## The Ten Scrolls at a Glance
 
 1. **The Unbroken Line** - Honor the past, embrace the present, build for the future
-2. **Meaningful Messages** - Craft commit messages that tell the story of your code's evolution
+2. **The Chronicle of Forgotten Messages** - Craft commit messages that tell the story of your code's evolution
 3. **Oracle of Love** - Build trust through transparent, empathetic code reviews
 4. **Sacred Freedom** - Release with intention and celebrate shared achievements
 5. **Compassionate Change** - Refactor with care for both code and colleagues
@@ -30,7 +30,7 @@ At its heart, GitScrolls teaches that:
 ## Your First Steps
 
 ### 1. Choose Your Path
-- **Individual Developer**: Start with Scroll II (Meaningful Messages) to transform your daily commits
+- **Individual Developer**: Start with Scroll II (The Chronicle of Forgotten Messages) to transform your daily commits
 - **Team Lead**: Begin with Scroll III (Oracle of Love) to enhance code reviews
 - **Project Manager**: Explore Scroll VII (Sacred Timing) for sustainable pacing
 

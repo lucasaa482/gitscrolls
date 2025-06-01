@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - GitScroll I: The Unbroken Line - "Thou Shalt Not Rewrite History"
-- GitScroll II: Meaningful Messages - "Commit Often, But With Intent" 
+- GitScroll II: The Chronicle of Forgotten Messages - "Commit Often, But With Intent" 
 - GitScroll III: The Oracle's Proof of Love - "Tests Are Proof of Love"
 - GitScroll IV: Sacred Freedom - "Forks Are Not Betrayals"
 - GitScroll V: Compassionate Change - "Refactor With Compassion"

@@ -64,7 +64,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "This refactoring makes the code much more maintainable."
 ```
 
-### 2. The Understanding Pass (Scroll II: Meaningful Messages)
+### 2. The Understanding Pass (Scroll II: The Chronicle of Forgotten Messages)
 
 **Ask questions before suggesting changes:**
 - "Could you help me understand why you chose this approach?"
@@ -119,7 +119,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "Consider how this will scale with our 2024 roadmap."
 ```
 
-### Applying Scroll II: Meaningful Messages
+### Applying Scroll II: The Chronicle of Forgotten Messages
 ```
 "The variable names here tell a clear story."
 "This comment explains the 'why' perfectly."

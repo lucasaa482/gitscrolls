@@ -8,7 +8,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 *For those new to GitScrolls or seeking foundational practices*
 
 1. **Start**: Quick Start Guide (`guides/quick-start-guide.md`)
-2. **Foundation**: Scroll II - Meaningful Messages
+2. **Foundation**: Scroll II - The Chronicle of Forgotten Messages
 3. **Growth**: Scroll IX - Sacred Teaching
 4. **Practice**: Scroll III - Oracle of Love
 5. **Integration**: Scroll I - The Unbroken Line
@@ -43,7 +43,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 
 1. **Purpose**: Scroll I - The Unbroken Line
 2. **Execution**: Scroll VII - Sacred Timing
-3. **Quality**: Scroll II - Meaningful Messages
+3. **Quality**: Scroll II - The Chronicle of Forgotten Messages
 4. **Culture**: Scroll III - Oracle of Love
 5. **Celebration**: Scroll IV - Sacred Freedom
 
@@ -70,7 +70,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 **For Bug Overwhelm**:
 1. Scroll VI - Creative Chaos
 2. Scroll VII - Sacred Timing
-3. Scroll II - Meaningful Messages
+3. Scroll II - The Chronicle of Forgotten Messages
 
 ### 🌊 The Contemplative Path
 *For those seeking deeper meaning in their craft*
@@ -87,7 +87,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 ## Thematic Pathways
 
 ### Communication & Collaboration
-- Scroll II - Meaningful Messages
+- Scroll II - The Chronicle of Forgotten Messages
 - Scroll III - Oracle of Love  
 - Scroll IX - Sacred Teaching
 - Team Guide (`/guides/team-guide.md`)
@@ -112,7 +112,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 - Scroll VIII - Eternal Legacy
 
 ### Code Quality & Craft
-- Scroll II - Meaningful Messages
+- Scroll II - The Chronicle of Forgotten Messages
 - Scroll V - Compassionate Change
 - Scroll VIII - Eternal Legacy
 - Review Guide (`guides/code-review-guide.md`)
@@ -123,7 +123,7 @@ Consider these questions to design your personal journey:
 
 1. **What challenges are you facing?**
    - Burnout → Start with Sacred Timing
-   - Poor communication → Begin with Meaningful Messages
+   - Poor communication → Begin with The Chronicle of Forgotten Messages
    - Team friction → Explore Oracle of Love
    - Technical debt → Study Compassionate Change
 

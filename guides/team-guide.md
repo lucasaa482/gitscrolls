@@ -17,7 +17,7 @@ GitScrolls offers teams a unique framework for discussing not just what we build
 
 ### 2. Choose Your First Experiment
 **Pick one practice to try for two weeks:**
-- Meaningful commit messages ([Scroll II](../scrolls/02-Meaningful-Messages.md))
+- Meaningful commit messages ([Scroll II](../scrolls/02-Chronicle-of-Forgotten-Messages.md))
 - Compassionate code reviews ([Scroll III](../scrolls/03-Oracle-of-Love.md))
 - Mindful refactoring ([Scroll V](../scrolls/05-Compassionate-Change.md))
 - Celebrating releases ([Scroll IV](../scrolls/04-Sacred-Freedom.md))
@@ -55,7 +55,7 @@ GitScrolls offers teams a unique framework for discussing not just what we build
 ### Sample Retrospective Themes
 
 **"Our commits are cryptic"**
-- Use [Scroll II: Meaningful Messages](../scrolls/02-Meaningful-Messages.md)
+- Use [Scroll II: The Chronicle of Forgotten Messages](../scrolls/02-Chronicle-of-Forgotten-Messages.md)
 - Practice: Commit message storytelling workshop
 - Goal: Every commit tells a clear story this sprint
 
@@ -102,7 +102,7 @@ GitScrolls offers teams a unique framework for discussing not just what we build
 - What legacy are we creating?
 - How can we better document our journey?
 
-**Scroll II - Meaningful Messages**
+**Scroll II - The Chronicle of Forgotten Messages**
 - What story do our commits tell?
 - How can we make our intentions clearer?
 - What would future devs want to know?

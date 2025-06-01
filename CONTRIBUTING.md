@@ -51,7 +51,7 @@ GitScrolls is more than code—it's a community dedicated to bringing consciousn
 1. Fork the repository
 2. Create a feature branch: `git checkout -b fix/descriptive-name`
 3. Make your changes
-4. Commit with a meaningful message (see [Scroll II](scrolls/02-Meaningful-Messages.md))
+4. Commit with a meaningful message (see [Scroll II](scrolls/02-Chronicle-of-Forgotten-Messages.md))
 5. Push to your fork
 6. Submit a Pull Request
 
@@ -80,7 +80,7 @@ GitScrolls is more than code—it's a community dedicated to bringing consciousn
 
 ## Commit Message Guidelines
 
-Following Scroll II: Meaningful Messages, your commits should tell a story:
+Following Scroll II: The Chronicle of Forgotten Messages, your commits should tell a story:
 
 ```
 [Type]: [What] - [Why]

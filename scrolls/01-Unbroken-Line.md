@@ -249,8 +249,8 @@ The First GitScroll was complete. Eight more awaited.
 
 ---
 
-__Next: [GitScroll II - "Commit Often, But With Intent"](02-Meaningful-Messages.md)__  
-_As taught by the Saint of the Bazaar_
+__Next: [GitScroll II - "The Chronicle of Forgotten Messages"](02-Chronicle-of-Forgotten-Messages.md)__  
+_As taught by the Teacher of Lost Packets_
 
 ---
 

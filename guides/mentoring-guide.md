@@ -54,7 +54,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ### For Junior Developers
 
-**Start with Scroll II: Meaningful Messages**
+**Start with Scroll II: The Chronicle of Forgotten Messages**
 - **Practice**: Review their commits together
 - **Exercise**: Rewrite commit messages as stories
 - **Goal**: Build communication skills early
@@ -125,7 +125,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Timeline mapping exercises
 - Legacy code appreciation
 
-### Scroll II: Meaningful Messages
+### Scroll II: The Chronicle of Forgotten Messages
 **Questions to explore:**
 - "What story does this commit tell?"
 - "Who needs to understand this change?"
