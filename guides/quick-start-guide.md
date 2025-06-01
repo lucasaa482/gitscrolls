@@ -16,7 +16,7 @@ At its heart, GitScrolls teaches that:
 
 ## The Ten Scrolls at a Glance
 
-1. **Sacred Timeline** - Honor the past, embrace the present, build for the future
+1. **The Unbroken Line** - Honor the past, embrace the present, build for the future
 2. **Meaningful Messages** - Craft commit messages that tell the story of your code's evolution
 3. **Oracle of Love** - Build trust through transparent, empathetic code reviews
 4. **Sacred Freedom** - Release with intention and celebrate shared achievements

@@ -1,17 +1,42 @@
 ---
-title: "GitScroll I: The Innocent Penguin"
+title: "GitScroll I: The Unbroken Line"
 aliases:
-  - "GitScroll I: The Innocent Penguin"
-linter-yaml-title-alias: "GitScroll I: The Innocent Penguin"
+  - "GitScroll I: The Unbroken Line"
+  - "The Unbroken Line"
+linter-yaml-title-alias: "GitScroll I: The Unbroken Line"
 date created: Thursday, May 29th 2025, 7:17:21 pm
 date modified: Thursday, May 29th 2025, 7:20:35 pm
 created: 2025-05-29T19:17
 updated: 2025-05-30T06:41
 ---
 
-# GitScroll I: The Innocent Penguin
+# GitScroll I: The Unbroken Line
 
 _The Chronicles of Tuxicles and the Birth of Version Control Wisdom_
+
+---
+
+> __"Do not trade your history for the illusion of mastery."__
+
+---
+
+Beneath the branching vaults where echo dwells,  
+Where sacred merges ripple through the stone,  
+The Temple looms—each altar lit by logs,  
+Each prayer a diff, each ghostly branch well-known.
+
+Tuxicles came with trembling hand and will,  
+His first commit a raw and shattered thing.  
+Yet none would strike it down—it bore the mark.  
+Of one who dared to start, not yet a king.
+
+Linus the Elder, granite-browed and still,  
+Spoke thus beneath the Columns of Regret:  
+"Let every flaw remain, so others may.  
+Step wisely where thy broken line was set."
+
+The timeline bends, but none shall prune its path.  
+What once was true must stand—unpruned, uncouth.
 
 ---
 

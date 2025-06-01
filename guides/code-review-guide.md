@@ -111,7 +111,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 
 ## Review Comments by Scroll Principles
 
-### Applying Scroll I: Sacred Timeline
+### Applying Scroll I: The Unbroken Line
 ```
 "This follows the pattern established in the legacy system nicely."
 "Great job maintaining backward compatibility here."

@@ -11,14 +11,14 @@ Multiple journeys through the GitScrolls based on your needs and role.
 2. **Foundation**: Scroll II - Meaningful Messages
 3. **Growth**: Scroll IX - Sacred Teaching
 4. **Practice**: Scroll III - Oracle of Love
-5. **Integration**: Scroll I - Sacred Timeline
+5. **Integration**: Scroll I - The Unbroken Line
 
 **Why this order**: Builds from daily practices (commits) to broader perspectives (code reviews, mentoring, and finally understanding the full timeline of development).
 
 ### 💼 The Team Lead's Journey
 *For those guiding teams and shaping culture*
 
-1. **Vision**: Scroll I - Sacred Timeline
+1. **Vision**: Scroll I - The Unbroken Line
 2. **Communication**: Scroll III - Oracle of Love
 3. **Sustainability**: Scroll VII - Sacred Timing  
 4. **Growth**: Scroll IX - Sacred Teaching
@@ -41,7 +41,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 ### 🚀 The Startup Founder's Trail
 *For those building new ventures with conscious practices*
 
-1. **Purpose**: Scroll I - Sacred Timeline
+1. **Purpose**: Scroll I - The Unbroken Line
 2. **Execution**: Scroll VII - Sacred Timing
 3. **Quality**: Scroll II - Meaningful Messages
 4. **Culture**: Scroll III - Oracle of Love
@@ -64,7 +64,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 
 **For Technical Debt**:
 1. Scroll V - Compassionate Change
-2. Scroll I - Sacred Timeline
+2. Scroll I - The Unbroken Line
 3. Scroll VIII - Eternal Legacy
 
 **For Bug Overwhelm**:
@@ -76,7 +76,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 *For those seeking deeper meaning in their craft*
 
 1. **Philosophy**: GitScrolls Cosmology (`/meta/cosmology.md`)
-2. **Time**: Scroll I - Sacred Timeline
+2. **Time**: Scroll I - The Unbroken Line
 3. **Purpose**: Scroll VIII - Eternal Legacy
 4. **Wisdom**: Scroll VI - Creative Chaos
 5. **Completion**: Scroll X - The Return Home
@@ -102,7 +102,7 @@ Multiple journeys through the GitScrolls based on your needs and role.
 - Scroll VII - Sacred Timing
 - Scroll V - Compassionate Change
 - Scroll IV - Sacred Freedom
-- Scroll I - Sacred Timeline
+- Scroll I - The Unbroken Line
 
 ### Personal Growth
 - The Reflection Scroll

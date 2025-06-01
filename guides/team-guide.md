@@ -97,7 +97,7 @@ GitScrolls offers teams a unique framework for discussing not just what we build
 
 ### Discussion Prompts by Scroll
 
-**Scroll I - Sacred Timeline**
+**Scroll I - The Unbroken Line**
 - How do we honor our codebase's history?
 - What legacy are we creating?
 - How can we better document our journey?

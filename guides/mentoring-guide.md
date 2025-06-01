@@ -94,7 +94,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ### For Senior Developers
 
-**Start with Scroll I: Sacred Timeline**
+**Start with Scroll I: The Unbroken Line**
 - **Practice**: Map their project's evolution
 - **Exercise**: Document architectural decisions
 - **Goal**: See the bigger picture
@@ -114,7 +114,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ## Mentoring Conversations by Scroll
 
-### Scroll I: Sacred Timeline
+### Scroll I: The Unbroken Line
 **Questions to explore:**
 - "How has this codebase evolved?"
 - "What patterns do you see repeating?"

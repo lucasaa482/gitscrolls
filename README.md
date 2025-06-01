@@ -46,7 +46,7 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 | Scroll | Teaching | Phase | Teacher | Quick Summary |
 |--------|----------|-------|---------|---------------|
-| __[I](scrolls/01-Sacred-Timeline.md)__ | _"Thou Shalt Not Rewrite History"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
+| __[I](scrolls/01-Sacred-Timeline.md)__ | _"The Unbroken Line"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
 | __[II](scrolls/02-Meaningful-Messages.md)__ | _"Commit Often, But With Intent"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
 | __[III](scrolls/03-Oracle-of-Love.md)__ | _"Tests Are Proof of Love"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
 | __[IV](scrolls/04-Sacred-Freedom.md)__ | _"Forks Are Not Betrayals"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
