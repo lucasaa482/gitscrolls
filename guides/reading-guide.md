@@ -26,14 +26,14 @@ __Preparation:__
 __The Ten Sacred Teachings:__
 3. __GitScroll I: The Unbroken Line__ - _"Thou Shalt Not Rewrite History"_
 4. __GitScroll II: The Chronicle of Forgotten Messages__ - _"Commit Often, But With Intent"_  
-5. __GitScroll III: The Oracle's Proof of Love__ - _"Tests Are Proof of Love"_
-6. __GitScroll IV: Sacred Freedom__ - _"Forks Are Not Betrayals"_
-7. __GitScroll V: Compassionate Change__ - _"Refactor With Compassion"_
-8. __GitScroll VI: Creative Chaos__ - _"Every Bug Is a Feature Request"_
-9. __GitScroll VII: Sacred Timing__ - _"Deploy on Friday, Die on Weekend"_
-10. __GitScroll VIII: Eternal Legacy__ - _"All Code Is Temporary, All Blame Is Eternal"_
-11. __GitScroll IX: Sacred Teaching__ - _"Be the Mentor You Needed When You Were a Beginner"_
-12. __GitScroll X: The Return Home__ - _"The Circle That Never Ends"_
+5. __GitScroll III: The Oracle's Testament of Devotion__ - _"Tests Are Proof of Love"_
+6. __GitScroll IV: The Schism Scrolls__ - _"Forks Are Not Betrayals"_
+7. __GitScroll V: The Wounding of Hubris__ - _"Refactor With Compassion"_
+8. __GitScroll VI: Songs of the Chaos Sirens__ - _"Every Bug Is a Feature Request"_
+9. __GitScroll VII: Between the Monsters of Time__ - _"Deploy on Friday, Die on Weekend"_
+10. __GitScroll VIII: Before the Ancient Reviewer__ - _"All Code Is Temporary, All Blame Is Eternal"_
+11. __GitScroll IX: Commandments of the Wise__ - _"Be the Mentor You Needed When You Were a Beginner"_
+12. __GitScroll X: Where Heroes Go to Die__ - _"The Circle That Never Ends"_
 
 __Reflection:__
 13. __The Reflection Scroll__ - _On the Nature of Craft, Comedy, and the Sacred Commit_
@@ -47,16 +47,16 @@ __Reflection:__
 - __Architecture__ (5 min overview)
 - __Scroll I__ (The Unbroken Line - foundational)
 - __Scroll III__ (Tests as Love - practical wisdom)
-- __Scroll X__ (The Return Home - completing the cycle)
+- __Scroll X__ (Where Heroes Go to Die - completing the cycle)
 - __Reflection Scroll__ (understanding the deeper meaning)
 
 ### __The Crisis Intervention Path__ _(For Developers in Specific Trouble)_
 
-- __Broke production?__ → Scroll VII (Sacred Timing)
-- __Inheriting legacy code?__ → Scroll VIII (Eternal Legacy)  
-- __Fighting with teammates?__ → Scroll IV (Sacred Freedom) + Scroll V (Compassionate Change)
-- __Feeling burnt out?__ → Scroll VI (Creative Chaos) + Reflection Scroll
-- __New to leadership?__ → Scroll IX (Sacred Teaching)
+- __Broke production?__ → Scroll VII (Between the Monsters of Time)
+- __Inheriting legacy code?__ → Scroll VIII (Before the Ancient Reviewer)  
+- __Fighting with teammates?__ → Scroll IV (The Schism Scrolls) + Scroll V (The Wounding of Hubris)
+- __Feeling burnt out?__ → Scroll VI (Songs of the Chaos Sirens) + Reflection Scroll
+- __New to leadership?__ → Scroll IX (Commandments of the Wise)
 
 ### __The Teaching Path__ _(For Mentors and Team Leads)_
 

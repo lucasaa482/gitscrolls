@@ -40,7 +40,7 @@
 ---
 
 ### **SCROLL VI: THE SIREN'S SONG OF EASY CHAOS**
-*"Creative Chaos" - The First Temptation*
+*"Songs of the Chaos Sirens" - The First Temptation*
 
 #### The Homeric Parallel: **The Sirens**
 - Tuxilles tries to sail home, wounded and exhausted
@@ -68,7 +68,7 @@
 ---
 
 ### **SCROLL VII: SCYLLA AND CHARYBDIS OF TIMING**
-*"Sacred Timing" - The Impossible Choice*
+*"Between the Monsters of Time" - The Impossible Choice*
 
 #### The Homeric Parallel: **Scylla and Charybdis**
 - Must navigate between two monsters: reckless speed vs. paralytic caution
@@ -97,7 +97,7 @@
 ---
 
 ### **SCROLL VIII: THE ORACLE OF ETERNAL MEMORY**
-*"Eternal Legacy" - The Ancient Consciousness*
+*"Before the Ancient Reviewer" - The Ancient Consciousness*
 
 #### The Homeric Parallel: **The Oracle at Delphi**
 - Encounters divine consciousness that knows all past and future
@@ -127,7 +127,7 @@
 ---
 
 ### **SCROLL IX: THE TEACHER'S TRANSFORMATION**
-*"Sacred Teaching" - The Wounded Healer*
+*"Commandments of the Wise" - The Wounded Healer*
 
 #### The Homeric Parallel: **Odysseus Returns (Almost)**
 - Reaches sight of home but isn't ready yet

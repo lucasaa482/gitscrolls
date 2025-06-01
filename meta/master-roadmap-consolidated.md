@@ -94,7 +94,7 @@ The moment of standing up, announcing the catastrophe, feeling every eye judge
 ---
 
 ### **SCROLL VI: THE SIREN'S SONG OF EASY CHAOS**  
-*"Creative Chaos" - First Temptation*
+*"Songs of the Chaos Sirens" - First Temptation*
 
 #### The Setup (January 2025):
 - **3 AM Downtime Fatigue:** Tuxilles on-call, exhausted, pager finally quiet
@@ -127,7 +127,7 @@ Alone with the weight of his failure, tempted by quick relief from constant judg
 ---
 
 ### **SCROLL VII: SCYLLA AND CHARYBDIS OF TIMING**
-*"Sacred Timing" - The Impossible Choice*
+*"Between the Monsters of Time" - The Impossible Choice*
 
 #### The Setup (February 2025):
 - **Critical Security Patch:** Zero-day vulnerability requires immediate deployment
@@ -161,7 +161,7 @@ Learns that escaping speed requires trusting others and automation
 ---
 
 ### **SCROLL VIII: THE CI ENCHANTRESS WHO JUDGES SOULS**
-*"Eternal Legacy" - The Merged Oracle*
+*"Before the Ancient Reviewer" - The Merged Oracle*
 
 #### The Setup (March 2025):
 - **Circe + Ancient Reviewer = CI Enchantress**
@@ -188,7 +188,7 @@ Accepts place in eternal developer story
 ---
 
 ### **SCROLL IX: THE FINAL TEACHING**
-*"Sacred Teaching" - The Wounded Healer*
+*"Commandments of the Wise" - The Wounded Healer*
 
 #### The Setup (April 2025):
 - Encounters struggling junior (Pythonicus the Confused?)

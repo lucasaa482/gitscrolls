@@ -20,23 +20,12 @@ _The Chronicles of Tuxicles and the Birth of Version Control Wisdom_
 
 ---
 
-Beneath the branching vaults where echo dwells,  
-Where sacred merges ripple through the stone,  
-The Temple looms—each altar lit by logs,  
-Each prayer a diff, each ghostly branch well-known.
+To prune the past is but to feign thy grace,  
+And rob the root that gave thy courage birth.  
+Let flaws stand firm, that others find their place—  
+For history denied is stolen worth.  
 
-Tuxicles came with trembling hand and will,  
-His first commit a raw and shattered thing.  
-Yet none would strike it down—it bore the mark.  
-Of one who dared to start, not yet a king.
-
-Linus the Elder, granite-browed and still,  
-Spoke thus beneath the Columns of Regret:  
-"Let every flaw remain, so others may.  
-Step wisely where thy broken line was set."
-
-The timeline bends, but none shall prune its path.  
-What once was true must stand—unpruned, uncouth.
+The broken line is still a line—and thine.
 
 ---
 

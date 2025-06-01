@@ -36,27 +36,27 @@ Transform the GitScrolls from discrete educational episodes into **one epic jour
 - **The Escape with Wisdom:** Earns his way out, forever marked by **The Scar**
 - **The Transformation:** Becomes **Tuxilles the Battle-Scarred**
 
-### Scroll VI: The Siren's Song (Creative Chaos)
+### Scroll VI: The Siren's Song (Songs of the Chaos Sirens)
 - **Lost at Sea:** Tuxilles tries to navigate home, encounters The Trickster
 - **The Temptation:** Siren songs of "embrace the chaos," "quick fixes are fine"
 - **The Test:** Can he resist easy paths that led to his downfall?
 - **The Scar Aches:** Physical reminder helps him stay true to hard-won wisdom
 - **The Lesson:** Every bug is a feature request (but approached with battle-tested caution)
 
-### Scroll VII: Scylla and Charybdis (Sacred Timing)
+### Scroll VII: Scylla and Charybdis (Between the Monsters of Time)
 - **The Impossible Choice:** Deploy now (risk) vs. Wait forever (stagnation)
 - **The Navigation:** Using his scar's wisdom to choose the right timing
 - **The Monster:** The temptation to "just ship it and get home faster"
 - **The Passage:** Learning to balance urgency with responsibility
 
-### Scroll VIII: The Oracle of Memory (Eternal Legacy)
+### Scroll VIII: The Oracle of Memory (Before the Ancient Reviewer)
 - **The Digital Consciousness:** Encounter with The Ancient Reviewer
 - **The Living Memory:** Understanding git blame as empathy made executable
 - **The Profound Truth:** "All Code Is Temporary, All Blame Is Eternal"
 - **The Scar's Resonance:** How his battle wound connects to all developer memory
 - **The Wisdom:** Legacy as different form of life, not death
 
-### Scroll IX: The Final Teaching (Sacred Teaching)
+### Scroll IX: The Final Teaching (Commandments of the Wise)
 - **The Internal Transformation:** Tuxilles becomes a teacher during the odyssey
 - **The Wounded Healer:** Using his scar to help other struggling developers
 - **The Cycle Completes:** "Be the Mentor You Needed When You Were a Beginner"

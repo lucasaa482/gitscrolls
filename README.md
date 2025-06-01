@@ -48,14 +48,14 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 |--------|----------|-------|---------|---------------|
 | __[I](scrolls/01-Unbroken-Line.md)__ | _"The Unbroken Line"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
 | __[II](scrolls/02-Chronicle-of-Forgotten-Messages.md)__ | _"The Chronicle of Forgotten Messages"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
-| __[III](scrolls/03-Oracle-of-Love.md)__ | _"Tests Are Proof of Love"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
-| __[IV](scrolls/04-Sacred-Freedom.md)__ | _"Forks Are Not Betrayals"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
-| __[V](scrolls/05-Compassionate-Change.md)__ | _"Refactor With Compassion"_ | __Questioner__ | The Wise Maintainer | Change without breaking trust |
-| __[VI](scrolls/06-Creative-Chaos.md)__ | _"Every Bug Is a Feature Request"_ | __Exile__ | The Trickster | Wisdom in user creativity |
-| __[VII](scrolls/07-Sacred-Timing.md)__ | _"Deploy on Friday, Die on Weekend"_ | __Exile__ | Ancient DevOps Shaman | Courage requires responsibility |
-| __[VIII](scrolls/08-eternal-legacy.md)__ | _"All Code Is Temporary, All Blame Is Eternal"_ | __Exile__ | The Ancient Reviewer | Legacy as different form of life |
-| __[IX](scrolls/09-sacred-teaching.md)__ | _"Be the Mentor You Needed When You Were a Beginner"_ | __Teacher__ | Tux Transcendent | Completing the recursive cycle |
-| __[X](scrolls/10-return-home.md)__ | _"The Circle That Never Ends"_ | __Teacher__ | Temple of Open Source | The eternal cycle of learning and teaching |
+| __[III](scrolls/03-Oracle-Testament-of-Devotion.md)__ | _"The Oracle's Testament of Devotion"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
+| __[IV](scrolls/04-Schism-Scrolls.md)__ | _"The Schism Scrolls"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
+| __[V](scrolls/05-Wounding-of-Hubris.md)__ | _"The Wounding of Hubris"_ | __Questioner__ | The Wise Maintainer | Change without breaking trust |
+| __[VI](scrolls/06-Songs-of-Chaos-Sirens.md)__ | _"Songs of the Chaos Sirens"_ | __Exile__ | The Trickster | Wisdom in user creativity |
+| __[VII](scrolls/07-Between-Monsters-of-Time.md)__ | _"Between the Monsters of Time"_ | __Exile__ | Ancient DevOps Shaman | Courage requires responsibility |
+| __[VIII](scrolls/08-Before-Ancient-Reviewer.md)__ | _"Before the Ancient Reviewer"_ | __Exile__ | The Ancient Reviewer | Legacy as different form of life |
+| __[IX](scrolls/09-Commandments-of-Wise.md)__ | _"Commandments of the Wise"_ | __Teacher__ | Tux Transcendent | Completing the recursive cycle |
+| __[X](scrolls/10-Where-Heroes-Go-to-Die.md)__ | _"Where Heroes Go to Die"_ | __Teacher__ | Temple of Open Source | The eternal cycle of learning and teaching |
 
 ---
 
@@ -63,12 +63,12 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 ### __🆘 Need Help Right Now?__
 
-- __Broke production?__ → [Scroll VII (Sacred Timing)](scrolls/07-Sacred-Timing.md)
-- __Inheriting legacy code?__ → [Scroll VIII (Eternal Legacy)](scrolls/08-eternal-legacy.md)
-- __Team conflicts about code?__ → [Scroll IV (Sacred Freedom)](scrolls/04-Sacred-Freedom.md) + [Scroll V (Compassionate Change)](scrolls/05-Compassionate-Change.md)
-- __Feeling burnt out?__ → [Scroll VI (Creative Chaos)](scrolls/06-Creative-Chaos.md) + [Reflection Scroll](meta/reflection-scroll.md)
-- __New to mentoring?__ → [Scroll IX (Sacred Teaching)](scrolls/09-sacred-teaching.md)
-- __Looking for closure/completion?__ → [Scroll X (The Return Home)](scrolls/10-return-home.md)
+- __Broke production?__ → [Scroll VII (Between the Monsters of Time)](scrolls/07-Between-Monsters-of-Time.md)
+- __Inheriting legacy code?__ → [Scroll VIII (Before the Ancient Reviewer)](scrolls/08-Before-Ancient-Reviewer.md)
+- __Team conflicts about code?__ → [Scroll IV (The Schism Scrolls)](scrolls/04-Schism-Scrolls.md) + [Scroll V (The Wounding of Hubris)](scrolls/05-Wounding-of-Hubris.md)
+- __Feeling burnt out?__ → [Scroll VI (Songs of the Chaos Sirens)](scrolls/06-Songs-of-Chaos-Sirens.md) + [Reflection Scroll](meta/reflection-scroll.md)
+- __New to mentoring?__ → [Scroll IX (Commandments of the Wise)](scrolls/09-Commandments-of-Wise.md)
+- __Looking for closure/completion?__ → [Scroll X (Where Heroes Go to Die)](scrolls/10-Where-Heroes-Go-to-Die.md)
 
 ### __👥 Reading with Your Team?__
 
@@ -87,19 +87,19 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 ## __🌟 Community Wisdom__
 
 > _"Every test you write is a love letter to the future."_  
-> __—Prophet of Red-Green, [GitScroll III](scrolls/03-Oracle-of-Love.md)__
+> __—Prophet of Red-Green, [GitScroll III](scrolls/03-Oracle-Testament-of-Devotion.md)__
 
 > _"The Timeline Is Truth, Even When Ugly."_  
 > __—Linus the Elder, [GitScroll I](scrolls/01-Unbroken-Line.md)__
 
 > _"Bug reports are love letters written in frustration."_  
-> __—The Trickster of GitHub Issues, [GitScroll VI](scrolls/06-Creative-Chaos.md)__
+> __—The Trickster of GitHub Issues, [GitScroll VI](scrolls/06-Songs-of-Chaos-Sirens.md)__
 
 > _"Legacy is not death—it is a different form of life."_  
-> __—From the Chronicles, [GitScroll VIII](scrolls/08-eternal-legacy.md)__
+> __—From the Chronicles, [GitScroll VIII](scrolls/08-Before-Ancient-Reviewer.md)__
 
 > _"Be the mentor you needed when you were a beginner."_  
-> __—Tux Transcendent, [GitScroll IX](scrolls/09-sacred-teaching.md)__
+> __—Tux Transcendent, [GitScroll IX](scrolls/09-Commandments-of-Wise.md)__
 
 ---
 
@@ -111,14 +111,14 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 ├── scrolls/              # The Ten Sacred Teachings
 │   ├── 01-Unbroken-Line.md
 │   ├── 02-Chronicle-of-Forgotten-Messages.md
-│   ├── 03-Oracle-of-Love.md
-│   ├── 04-Sacred-Freedom.md
-│   ├── 05-Compassionate-Change.md
-│   ├── 06-Creative-Chaos.md
-│   ├── 07-Sacred-Timing.md
-│   ├── 08-eternal-legacy.md
-│   ├── 09-sacred-teaching.md
-│   └── 10-return-home.md
+│   ├── 03-Oracle-Testament-of-Devotion.md
+│   ├── 04-Schism-Scrolls.md
+│   ├── 05-Wounding-of-Hubris.md
+│   ├── 06-Songs-of-Chaos-Sirens.md
+│   ├── 07-Between-Monsters-of-Time.md
+│   ├── 08-Before-Ancient-Reviewer.md
+│   ├── 09-Commandments-of-Wise.md
+│   └── 10-Where-Heroes-Go-to-Die.md
 ```
 
 ### __🧠 Meta-Wisdom__

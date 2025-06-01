@@ -24,13 +24,13 @@
 **Function:** Main scar that aches before ego-driven decisions  
 **Symbolism:** Where words of careless change once came from, now wisdom emerges
 
-### The Memory Corruption (Scroll VI? - Creative Chaos)
+### The Memory Corruption (Scroll VI? - Songs of the Chaos Sirens)
 **Mark:** Flickering pixels around his eyes  
 **Origin:** Getting lost in chaotic solutions, losing sight of users  
 **Function:** Vision "glitches" when he's not seeing clearly  
 **Symbolism:** Corrupted perception leads to corrupted decisions
 
-### The Timing Wound (Scroll VII - Sacred Timing) 
+### The Timing Wound (Scroll VII - Between the Monsters of Time) 
 **Mark:** A small crack across his shell/chest  
 **Origin:** Nearly making a disastrous "quick deployment" decision  
 **Function:** Aches when he's tempted to rush  

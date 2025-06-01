@@ -18,21 +18,21 @@ At its heart, GitScrolls teaches that:
 
 1. **The Unbroken Line** - Honor the past, embrace the present, build for the future
 2. **The Chronicle of Forgotten Messages** - Craft commit messages that tell the story of your code's evolution
-3. **Oracle of Love** - Build trust through transparent, empathetic code reviews
-4. **Sacred Freedom** - Release with intention and celebrate shared achievements
-5. **Compassionate Change** - Refactor with care for both code and colleagues
-6. **Creative Chaos** - Transform bugs into opportunities for growth
-7. **Sacred Timing** - Balance urgency with sustainability
-8. **Eternal Legacy** - Write code that serves future generations
-9. **Sacred Teaching** - Share knowledge generously and learn continuously
-10. **The Return Home** - Complete the cycle from learner to teacher
+3. **The Oracle's Testament of Devotion** - Build trust through transparent, empathetic code reviews
+4. **The Schism Scrolls** - Release with intention and celebrate shared achievements
+5. **The Wounding of Hubris** - Refactor with care for both code and colleagues
+6. **Songs of the Chaos Sirens** - Transform bugs into opportunities for growth
+7. **Between the Monsters of Time** - Balance urgency with sustainability
+8. **Before the Ancient Reviewer** - Write code that serves future generations
+9. **Commandments of the Wise** - Share knowledge generously and learn continuously
+10. **Where Heroes Go to Die** - Complete the cycle from learner to teacher
 
 ## Your First Steps
 
 ### 1. Choose Your Path
 - **Individual Developer**: Start with Scroll II (The Chronicle of Forgotten Messages) to transform your daily commits
-- **Team Lead**: Begin with Scroll III (Oracle of Love) to enhance code reviews
-- **Project Manager**: Explore Scroll VII (Sacred Timing) for sustainable pacing
+- **Team Lead**: Begin with Scroll III (The Oracle's Testament of Devotion) to enhance code reviews
+- **Project Manager**: Explore Scroll VII (Between the Monsters of Time) for sustainable pacing
 
 ### 2. Practice One Principle
 Pick one principle from your chosen scroll and apply it this week:

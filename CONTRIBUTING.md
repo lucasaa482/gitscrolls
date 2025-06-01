@@ -142,7 +142,7 @@ Visual changes or examples
 
 ## Code Review Culture
 
-Following Scroll III: Oracle of Love, our reviews:
+Following Scroll III: The Oracle's Testament of Devotion, our reviews:
 
 - **Start with appreciation**: What works well?
 - **Ask before assuming**: Seek to understand choices

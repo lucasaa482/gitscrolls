@@ -46,7 +46,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 
 ## The GitScrolls Review Method
 
-### 1. The Appreciation Pass (Scroll III: Oracle of Love)
+### 1. The Appreciation Pass (Scroll III: The Oracle's Testament of Devotion)
 
 **First, find what works well:**
 - Clever solutions
@@ -79,7 +79,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "I'd love to understand the performance implications here."
 ```
 
-### 3. The Improvement Pass (Scroll V: Compassionate Change)
+### 3. The Improvement Pass (Scroll V: The Wounding of Hubris)
 
 **Suggest improvements with care:**
 - Explain the 'why' behind suggestions
@@ -94,7 +94,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "This reminds me of a bug we hit last sprint - here's how we solved it: [link]"
 ```
 
-### 4. The Growth Pass (Scroll IX: Sacred Teaching)
+### 4. The Growth Pass (Scroll IX: Commandments of the Wise)
 
 **Share knowledge generously:**
 - Explain concepts, don't just point out issues
@@ -127,7 +127,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "The function name could be more descriptive of its purpose."
 ```
 
-### Applying Scroll III: Oracle of Love
+### Applying Scroll III: The Oracle's Testament of Devotion
 ```
 "I appreciate how you handled this edge case."
 "Your solution here is elegant and thoughtful."
@@ -135,7 +135,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "I can see the care you put into this implementation."
 ```
 
-### Applying Scroll IV: Sacred Freedom
+### Applying Scroll IV: The Schism Scrolls
 ```
 "This will make our next release much smoother!"
 "Celebrating how this cleans up our deployment process."
@@ -143,14 +143,14 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "Great work getting this ready for release!"
 ```
 
-### Applying Scroll V: Compassionate Change
+### Applying Scroll V: The Wounding of Hubris
 ```
 "I see why the original code was written this way, and your refactor improves it nicely."
 "This is a thoughtful modernization of the legacy pattern."
 "You've maintained the original intent while improving the implementation."
 ```
 
-### Applying Scroll VI: Creative Chaos
+### Applying Scroll VI: Songs of the Chaos Sirens
 ```
 "Interesting approach to this tricky problem!"
 "I wouldn't have thought of this solution - creative!"
@@ -158,7 +158,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "Nice way to handle this unpredictable scenario."
 ```
 
-### Applying Scroll VII: Sacred Timing
+### Applying Scroll VII: Between the Monsters of Time
 ```
 "Given our deadline, this is a pragmatic solution."
 "Should we add a TODO for future optimization?"
@@ -166,7 +166,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "Let's document this as technical debt for next sprint."
 ```
 
-### Applying Scroll VIII: Eternal Legacy
+### Applying Scroll VIII: Before the Ancient Reviewer
 ```
 "This documentation will help future developers."
 "Consider how someone will understand this in 2 years."
@@ -174,7 +174,7 @@ Code reviews are where technical excellence meets human interaction. This guide 
 "Thank you for thinking about maintainability."
 ```
 
-### Applying Scroll IX: Sacred Teaching
+### Applying Scroll IX: Commandments of the Wise
 ```
 "I learned something new from your approach here."
 "This would make a great example for our style guide."

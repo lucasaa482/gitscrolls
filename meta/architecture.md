@@ -90,7 +90,7 @@ __Lesson:__ The cycle completes through teaching
 __Growth:__ From student to sage  
 __Key Theme:__ The responsibility of knowledge. How wisdom becomes service.
 
-__✅ Scroll X - "The Return Home"__ _(Complete)_  
+__✅ Scroll X - "Where Heroes Go to Die"__ _(Complete)_  
 __Teacher:__ The Temple of Open Source, The Living Community  
 __Lesson:__ Every ending is a new beginning; the circle that never ends  
 __Growth:__ From exile to return, from healing to wholeness, from teacher to eternal guide  
@@ -219,7 +219,7 @@ _Thus is mapped the complete architecture of wisdom, from first commit through m
 
 ## The Circular Architecture: Endings as Beginnings
 
-The GitScrolls follow a **circular structure** where Scroll X (The Return Home) completes the odyssey by creating the conditions for new odysseys to begin. This reflects the eternal truth that:
+The GitScrolls follow a **circular structure** where Scroll X (Where Heroes Go to Die) completes the odyssey by creating the conditions for new odysseys to begin. This reflects the eternal truth that:
 
 - Every senior developer was once a confused beginner
 - Every teacher was once a struggling student  

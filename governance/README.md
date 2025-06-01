@@ -7,8 +7,8 @@ How decisions are made and the project evolves with wisdom and community.
 GitScrolls governance embodies the principles it teaches:
 - **The Unbroken Line**: Honor the past, act in the present, build for the future
 - **The Chronicle of Forgotten Messages**: Communicate decisions clearly and transparently
-- **Oracle of Love**: Make decisions with compassion for all affected
-- **Sacred Freedom**: Empower contributors while maintaining coherence
+- **The Oracle's Testament of Devotion**: Make decisions with compassion for all affected
+- **The Schism Scrolls**: Empower contributors while maintaining coherence
 
 ## Decision-Making Structure
 
