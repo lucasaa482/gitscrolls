@@ -78,7 +78,7 @@ GitScrolls offers teams a unique framework for discussing not just what we build
 
 ### GitScrolls Book Club Format
 
-**Week 1-9: One Scroll Per Week**
+**Week 1-10: One Scroll Per Week**
 
 **Before Meeting:**
 - Everyone reads assigned scroll
@@ -141,6 +141,11 @@ GitScrolls offers teams a unique framework for discussing not just what we build
 - How do we share knowledge?
 - Who needs mentoring?
 - What wisdom can we document?
+
+**Scroll X - The Return Home**
+- How do we complete learning cycles?
+- What does mastery look like?
+- How do we help others begin their journey?
 
 ## Building Team Culture
 
@@ -240,7 +245,7 @@ Assign team members as champions for different scrolls:
 - Build company-specific scroll adaptations
 
 ### Team Scroll Creation
-After mastering the nine scrolls, teams can:
+After mastering the ten scrolls, teams can:
 - Identify unique team challenges
 - Create their own scroll with team-specific wisdom
 - Document team practices and principles

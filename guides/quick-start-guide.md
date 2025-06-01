@@ -4,7 +4,7 @@ Welcome to GitScrolls - A 5-minute orientation to sacred development practices.
 
 ## What Are GitScrolls?
 
-GitScrolls are nine archetypal patterns that transform how we approach software development by integrating timeless wisdom with modern coding practices. They help teams build more compassionate, sustainable, and meaningful software.
+GitScrolls are ten archetypal patterns that transform how we approach software development by integrating timeless wisdom with modern coding practices. They help teams build more compassionate, sustainable, and meaningful software.
 
 ## The Core Philosophy
 
@@ -14,7 +14,7 @@ At its heart, GitScrolls teaches that:
 - **Technical excellence and compassion** are not opposing forces
 - **Every commit** is an opportunity for mindful practice
 
-## The Nine Scrolls at a Glance
+## The Ten Scrolls at a Glance
 
 1. **Sacred Timeline** - Honor the past, embrace the present, build for the future
 2. **Meaningful Messages** - Craft commit messages that tell the story of your code's evolution
@@ -25,6 +25,7 @@ At its heart, GitScrolls teaches that:
 7. **Sacred Timing** - Balance urgency with sustainability
 8. **Eternal Legacy** - Write code that serves future generations
 9. **Sacred Teaching** - Share knowledge generously and learn continuously
+10. **The Return Home** - Complete the cycle from learner to teacher
 
 ## Your First Steps
 

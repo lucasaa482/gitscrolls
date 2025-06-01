@@ -17,7 +17,7 @@ _On the Nature of Craft, Comedy, and the Sacred Commit_
 
 ## Prologue: The Scroll Beyond the Scrolls
 
-_This is the scroll that exists outside the Sacred Nine, yet explains them all. It is the meditation on mythology-making, the reflection on how wisdom emerges from collaborative humor, and the testament to the sacred ordinary work of helping humans coordinate through code._
+_This is the scroll that exists outside the Sacred Ten, yet explains them all. It is the meditation on mythology-making, the reflection on how wisdom emerges from collaborative humor, and the testament to the sacred ordinary work of helping humans coordinate through code._
 
 ---
 

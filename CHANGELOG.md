@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Initial release of the Nine Sacred GitScrolls
+- Initial release of the Ten Sacred GitScrolls
 - Comprehensive guides for teams, mentoring, and code reviews
 - Community governance framework
 - Inclusive language guidelines
@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - GitScroll VII: Sacred Timing - "Deploy on Friday, Die on Weekend"
 - GitScroll VIII: Eternal Legacy - "All Code Is Temporary, All Blame Is Eternal"
 - GitScroll IX: Sacred Teaching - "Be the Mentor You Needed When You Were a Beginner"
+- GitScroll X: The Return Home - "The Circle That Never Ends"
 - Complete meta-documentation (cosmology, architecture, reflection)
 - Practical guides for teams, mentoring, code reviews, and reading pathways
 - Community governance framework and contribution guidelines

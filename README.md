@@ -108,7 +108,7 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 ### __📚 Core Teachings__
 
 ```
-├── scrolls/              # The Nine Sacred Teachings
+├── scrolls/              # The Ten Sacred Teachings
 │   ├── 01-Sacred-Timeline.md
 │   ├── 02-Meaningful-Messages.md
 │   ├── 03-Oracle-of-Love.md
@@ -117,7 +117,8 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 │   ├── 06-Creative-Chaos.md
 │   ├── 07-Sacred-Timing.md
 │   ├── 08-eternal-legacy.md
-│   └── 09-sacred-teaching.md
+│   ├── 09-sacred-teaching.md
+│   └── 10-return-home.md
 ```
 
 ### __🧠 Meta-Wisdom__
@@ -213,7 +214,7 @@ See __[CONTRIBUTING.md](CONTRIBUTING.md)__ for detailed guidelines and __[Govern
 ### __📱 Digital Presence__
 
 - __📖 Repository:__ [GitHub](https://github.com/gitscrolls/gitscrolls) - _Source of truth_
-- __💬 Community:__ [Community Directory](community/) - _Join the conversation_
+- __💬 Community:__ [GitHub Discussions](https://github.com/gitscrolls/gitscrolls/discussions) - _Join the conversation_
 
 ### __📚 Available Resources__
 
@@ -288,7 +289,7 @@ _Deep gratitude to the penguin who first committed "fix stuff" and began this jo
 ### __💬 Get Help & Share Wisdom__
 
 - __Questions?__ Open an [Issue](https://github.com/gitscrolls/gitscrolls/issues) or check our [FAQ](FAQ.md)
-- __Ideas?__ Check the [Community Directory](community/) or open a [Feature Request](https://github.com/gitscrolls/gitscrolls/issues/new/choose)
+- __Ideas?__ Open an [Issue](https://github.com/gitscrolls/gitscrolls/issues) or [Feature Request](https://github.com/gitscrolls/gitscrolls/issues/new/choose)
 - __Wisdom to share?__ Follow our [Contributing Guide](CONTRIBUTING.md) and submit a Pull Request
 - __Want to teach?__ Check our [Mentoring Guide](guides/mentoring-guide.md)
 

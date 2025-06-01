@@ -45,7 +45,7 @@ Ancient servers hum their death songs here. Cobwebs made of COBOL hang from rust
 
 ## Sacred Artifacts & Relics
 
-### __📜 The Nine GitScrolls__
+### __📜 The Ten GitScrolls__
 
 The central artifacts of wisdom, written on parchment made from compressed .diff files. They glow with the accumulated wisdom of ten thousand code reviews.
 
