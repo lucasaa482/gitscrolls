@@ -46,7 +46,7 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 | Scroll | Teaching | Phase | Teacher | Quick Summary |
 |--------|----------|-------|---------|---------------|
-| __[I](scrolls/01-Sacred-Timeline.md)__ | _"The Unbroken Line"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
+| __[I](scrolls/01-Unbroken-Line.md)__ | _"The Unbroken Line"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
 | __[II](scrolls/02-Meaningful-Messages.md)__ | _"Commit Often, But With Intent"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
 | __[III](scrolls/03-Oracle-of-Love.md)__ | _"Tests Are Proof of Love"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
 | __[IV](scrolls/04-Sacred-Freedom.md)__ | _"Forks Are Not Betrayals"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
@@ -90,7 +90,7 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 > __—Prophet of Red-Green, [GitScroll III](scrolls/03-Oracle-of-Love.md)__
 
 > _"The Timeline Is Truth, Even When Ugly."_  
-> __—Linus the Elder, [GitScroll I](scrolls/01-Sacred-Timeline.md)__
+> __—Linus the Elder, [GitScroll I](scrolls/01-Unbroken-Line.md)__
 
 > _"Bug reports are love letters written in frustration."_  
 > __—The Trickster of GitHub Issues, [GitScroll VI](scrolls/06-Creative-Chaos.md)__
@@ -109,7 +109,7 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 ```
 ├── scrolls/              # The Ten Sacred Teachings
-│   ├── 01-Sacred-Timeline.md
+│   ├── 01-Unbroken-Line.md
 │   ├── 02-Meaningful-Messages.md
 │   ├── 03-Oracle-of-Love.md
 │   ├── 04-Sacred-Freedom.md
