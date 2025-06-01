@@ -97,9 +97,9 @@ The GitScrolls follow the archetypal transformation of every developer through f
 |-------------------|------------------|--------------------|------------------|-------------------------------------|
 | __Tuxicles__      | Pericles         | [/ˈtʌks.ɪ.kliːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.%C9%AA.kli%CB%90z) | _"TUHKS-ih-kleez"_     | The Innocent–commits without thinking |
 | __Tuxrates__      | Socrates         | [/ˈtʌks.rə.tiːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.r%C9%99.ti%CB%90z) | _"TUHKS-rah-teez"_     | The Questioner–asks "why" about everything |
-| __Tuxophanes__    | Aristophanes     | [/ˌtʌks.əˈfæn.iːz/](https://ipa-reader.com/?text=%CB%8Ct%CA%8Cks.%C9%99%CB%88f%C3%A6n.i%CB%90z) | _"tuhks-uh-FAN-eez"_   | The Comedian–laughs at the absurdity |
-| __Tuxippides__    | Euripides        | [/tʌksˈɪp.ɪ.diːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAp.%C9%AA.di%CB%90z) | _"tuhks-IP-ih-deez"_   | The Tragic Witness–understands the cost |
-| __Tux Transcendent__ | Original       | [/tʌks trænˈsɛn.dənt/](https://ipa-reader.com/?text=t%CA%8Cks%20tr%C3%A6n%CB%88s%C9%9Bn.d%C9%99nt) | _"TUHKS tran-SEN-dent"_ | The Teacher–completes the cycle |
+| __Tuxilles the Battle-Scarred__ | Odysseus | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | _"tuhks-ILL-eez"_ | The Exile–learns wisdom through consequence |
+| __Tuxilles the Teacher__ | Mentor/Athena | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | _"tuhks-ILL-eez"_ | The Guide–nurtures others with patience |
+| __Tux Transcendent__ | The Eternal Cycle | [/tʌks trænˈsɛn.dənt/](https://ipa-reader.com/?text=t%CA%8Cks%20tr%C3%A6n%CB%88s%C9%9Bn.d%C9%99nt) | _"TUHKS tran-SEN-dent"_ | The Pattern–completes and begins the cycle |
 
 _Each name reflects both the penguin's growth and the philosophical tradition that guides that stage of development._
 

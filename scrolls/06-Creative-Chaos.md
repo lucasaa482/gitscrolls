@@ -17,7 +17,7 @@ updated: 2025-05-30T06:08
 
 # GitScroll VI: The Creative Chaos of Reality
 
-_The Chronicles of Tuxophanes and the Art of Dancing with Absurdity_
+_The Chronicles of Tuxilles the Battle-Scarred and the Art of Dancing with Absurdity_
 
 ---
 

@@ -32,9 +32,9 @@ The GitScrolls follow the archetypal transformation of every developer through f
 |----------|-------------------|------------------|--------------------|------------------|-------------------------------------|
 | <img src="assets/images/aspect-tuxicles.png" width="50" alt="Tuxicles"> | __Tuxicles__      | Pericles         | [/ˈtʌks.ɪ.kliːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.%C9%AA.kli%CB%90z) | _"TUHKS-ih-kleez"_     | The Innocent–commits without thinking |
 | <img src="assets/images/aspect-tuxrates.png" width="50" alt="Tuxrates"> | __Tuxrates__      | Socrates         | [/ˈtʌks.rə.tiːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.r%C9%99.ti%CB%90z) | _"TUHKS-rah-teez"_     | The Questioner–asks "why" about everything |
-| <img src="assets/images/aspect-tuxophanes.png" width="50" alt="Tuxophanes"> | __Tuxophanes__    | Aristophanes     | [/ˌtʌks.əˈfæn.iːz/](https://ipa-reader.com/?text=%CB%8Ct%CA%8Cks.%C9%99%CB%88f%C3%A6n.i%CB%90z) | _"tuhks-uh-FAN-eez"_   | The Comedian–laughs at the absurdity |
-| <img src="assets/images/aspect-tuxippides.png" width="50" alt="Tuxippides"> | __Tuxippides__    | Euripides        | [/tʌksˈɪp.ɪ.diːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAp.%C9%AA.di%CB%90z) | _"tuhks-IP-ih-deez"_   | The Tragic Witness–understands the cost |
-| <img src="assets/images/aspect-tux-transcendent.png" width="50" alt="Tux Transcendent"> | __Tux Transcendent__ | Original       | [/tʌks trænˈsɛn.dənt/](https://ipa-reader.com/?text=t%CA%8Cks%20tr%C3%A6n%CB%88s%C9%9Bn.d%C9%99nt) | _"TUHKS tran-SEN-dent"_ | The Teacher–completes the cycle |
+| <img src="assets/images/tuxilles-battle-scarred.png" width="50" alt="Tuxilles Battle-Scarred"> | __Tuxilles the Battle-Scarred__ | Odysseus | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | _"tuhks-ILL-eez"_ | The Exile–learns wisdom through consequence |
+| <img src="assets/images/tuxilles-teacher.png" width="50" alt="Tuxilles Teacher"> | __Tuxilles the Teacher__ | Mentor/Athena | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | _"tuhks-ILL-eez"_ | The Guide–nurtures others with patience |
+| <img src="assets/images/aspect-tux-transcendent.png" width="50" alt="Tux Transcendent"> | __Tux Transcendent__ | The Eternal Cycle | [/tʌks trænˈsɛn.dənt/](https://ipa-reader.com/?text=t%CA%8Cks%20tr%C3%A6n%CB%88s%C9%9Bn.d%C9%99nt) | _"TUHKS tran-SEN-dent"_ | The Pattern–completes and begins the cycle |
 
 _Each name reflects both the penguin's growth and the philosophical tradition that guides that stage of development._
 
@@ -51,9 +51,9 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 | __[III](scrolls/03-Oracle-of-Love.md)__ | _"Tests Are Proof of Love"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
 | __[IV](scrolls/04-Sacred-Freedom.md)__ | _"Forks Are Not Betrayals"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
 | __[V](scrolls/05-Compassionate-Change.md)__ | _"Refactor With Compassion"_ | __Questioner__ | The Wise Maintainer | Change without breaking trust |
-| __[VI](scrolls/06-Creative-Chaos.md)__ | _"Every Bug Is a Feature Request"_ | __Comedian__ | The Trickster | Wisdom in user creativity |
-| __[VII](scrolls/07-Sacred-Timing.md)__ | _"Deploy on Friday, Die on Weekend"_ | __Comedian__ | Ancient DevOps Shaman | Courage requires responsibility |
-| __[VIII](scrolls/08-eternal-legacy.md)__ | _"All Code Is Temporary, All Blame Is Eternal"_ | __Witness__ | The Ancient Reviewer | Legacy as different form of life |
+| __[VI](scrolls/06-Creative-Chaos.md)__ | _"Every Bug Is a Feature Request"_ | __Exile__ | The Trickster | Wisdom in user creativity |
+| __[VII](scrolls/07-Sacred-Timing.md)__ | _"Deploy on Friday, Die on Weekend"_ | __Exile__ | Ancient DevOps Shaman | Courage requires responsibility |
+| __[VIII](scrolls/08-eternal-legacy.md)__ | _"All Code Is Temporary, All Blame Is Eternal"_ | __Exile__ | The Ancient Reviewer | Legacy as different form of life |
 | __[IX](scrolls/09-sacred-teaching.md)__ | _"Be the Mentor You Needed When You Were a Beginner"_ | __Teacher__ | Tux Transcendent | Completing the recursive cycle |
 | __[X](scrolls/10-return-home.md)__ | _"The Circle That Never Ends"_ | __Teacher__ | Temple of Open Source | The eternal cycle of learning and teaching |
 

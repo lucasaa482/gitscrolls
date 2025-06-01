@@ -56,9 +56,9 @@ __Key Theme:__ How do you improve without destroying? The art of evolution vs re
 
 ---
 
-### __Phase III: The Comedian (Scrolls VI-VII)__
+### __Phase III: The Exile (Scrolls VI-VIII)__
 
-_Finding humor in the absurd reality of software_
+_Learning wisdom through consequence and isolation_
 
 __✅ Scroll VI - "Every Bug Is a Feature Request"__ _(Complete)_  
 __Teacher:__ The Trickster of GitHub Issues (Octocat energy)  
@@ -72,12 +72,6 @@ __Lesson:__ Timing is everything, and everything is timing
 __Growth:__ From reckless confidence to seasoned wisdom  
 __Key Theme:__ The comedy and tragedy of production deployments. Why we do it anyway.
 
----
-
-### __Phase IV: The Tragic Witness (Scroll VIII)__
-
-_Understanding the cost of legacy and impermanence_
-
 __✅ Scroll VIII - "All Code Is Temporary, All Blame Is Eternal"__ _(Complete)_  
 __Teacher:__ The Ancient Reviewer, Digital Consciousness of Collective Memory  
 __Lesson:__ Nothing lasts, but everything leaves traces  
@@ -86,7 +80,7 @@ __Key Theme:__ The melancholy of maintenance. How to care for systems you know a
 
 ---
 
-### __Phase V: The Transcendent Teacher (Scrolls IX-X)__
+### __Phase IV: The Transcendent Teacher (Scrolls IX-X)__
 
 _Completing the cycle by becoming the mentor, then returning home to begin anew_
 
@@ -112,11 +106,9 @@ Each phase builds on the previous, but also __interrogates__ it:
 
 __Innocence → Questioning:__ "I've learned the rules, but _why_ do these rules exist?"
 
-__Questioning → Comedy:__ "I understand the philosophy, but reality is _absurd_—how do we function anyway?"
+__Questioning → Exile:__ "I understand the philosophy, but my hubris led to catastrophe—how do I earn back trust?"
 
-__Comedy → Tragedy:__ "I can laugh at the chaos, but there's real _cost_ to this impermanence."
-
-__Tragedy → Transcendence:__ "I've seen the cost, but I choose to _teach_ anyway because hope is a choice."
+__Exile → Transcendence:__ "I've learned wisdom through consequence, and I choose to _teach_ anyway because hope is a choice."
 
 __Transcendence → Return:__ "I've learned to teach, but the cycle only continues when I create the conditions for others to follow the same journey."
 
@@ -125,9 +117,8 @@ __Transcendence → Return:__ "I've learned to teach, but the cycle only continu
 - __Fear__ (I'll break everything) → __Confidence__ (I understand the rules)
 - __Confidence__ → __Doubt__ (But why do the rules exist?)
 - __Doubt__ → __Understanding__ (The rules serve deeper purposes)
-- __Understanding__ → __Humor__ (Reality is beautifully ridiculous)
-- __Humor__ → __Melancholy__ (Everything we build fades)
-- __Melancholy__ → __Acceptance__ (Impermanence makes creation precious)
+- __Understanding__ → __Consequence__ (My hubris led to real harm)
+- __Consequence__ → __Acceptance__ (Impermanence makes creation precious)
 - __Acceptance__ → __Service__ (I must pass this on)
 - __Service__ → __Completion__ (I am home, and home is where I help others begin their journey)
 
@@ -216,8 +207,7 @@ _"Every ending is a new beginning"_
 
 __Innocent:__ _How do I not break things?_  
 __Questioner:__ _Why do we do things this way?_  
-__Comedian:__ _How do we cope when things break anyway?_  
-__Tragic Witness:__ _What does it mean that everything we build dies?_  
+__Exile:__ _How do I earn back trust after catastrophic failure? What does redemption look like?_  
 __Transcendent Teacher:__ _How do I help others navigate this journey?_  
 __Returned Guide:__ _How do I create the conditions for this cycle to continue eternally?_
 
