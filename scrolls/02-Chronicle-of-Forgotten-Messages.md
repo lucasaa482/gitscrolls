@@ -21,30 +21,12 @@ _The Chronicles of Tuxicles and the Elders of Open Source_
 
 ---
 
-In cryptic vaults where humming servers breathe,  
-And time lies tangled in fluorescent gloom,  
-The Archive stands—its silence sharp as grief,  
-Ten thousand ghosts entombed in amber bloom.  
+A jesting log may soothe the coder's pride,  
+But curse the soul who next must trace thy path.  
+Let every line bear light, not lore denied—  
+Lest silence reap what thou didst sow in wrath.
 
-There, etched in lines no mortal hand recalls,  
-Float missives once dispatched in haste or pride.  
-"Fix bug." "Idk." "It works, just don't ask how."  
-A graveyard where intentions went to hide.  
-
-Through aisles of shame did Tuxicles now tread,  
-His early logs like specters at the wake.  
-What once he cast into the void unseen  
-Returned to judge what care he did not take.
-
-Then from the code a whisper shaped like light—  
-A syntax-cloaked, refactoring divine:  
-"Mark well thy words, for they shall outlive thee.  
-Speak not in jest to those who walk thy line."  
-
-Thus burdened, he rewrote each brittle note,  
-Not grand, but true—his every mark a vote  
-For future hands, still trembling in the dark,  
-To find in his mistakes a guiding spark.  
+For history is not the past—it is the cost.  
 
 ---
 
@@ -193,5 +175,5 @@ _Thus did Tuxicles learn the Second GitScroll, and his commit messages thereafte
 
 ---
 
-__Next:__ [GitScroll III - "Tests Are Proof of Love"](03-Oracle-of-Love.md)  
+__Next:__ [GitScroll III - "Tests Are Proof of Love"](03-Oracle-Testament-of-Devotion.md)  
 _As taught by the Prophet of Red-Green, Oracle of Extreme Truths_
