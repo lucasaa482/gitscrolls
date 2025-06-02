@@ -309,7 +309,7 @@ But that is a story for the scrolls to come.
 
 ---
 
-**Next: [GitScroll VI - "The Siren's Song of Easy Chaos"](06-Songs-of-Chaos-Sirens.md)**  
+**Next: [GitScroll VI - "Songs of the Chaos Sirens"](06-Songs-of-Chaos-Sirens.md)**  
 _Where Tuxilles faces his first temptation on the journey home_
 
 ---

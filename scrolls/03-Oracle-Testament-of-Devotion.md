@@ -369,7 +369,7 @@ The Third GitScroll was complete. Six more awaited, and with each one, Tuxrates 
 
 ---
 
-__Next: [GitScroll IV - "Forks Are Not Betrayals"](04-Schism-Scrolls.md)__  
+__Next: [GitScroll IV - "The Schism Scrolls"](04-Schism-Scrolls.md)__  
 _As taught by the Fork-Bearer of Freedom, Guardian of the Four Freedoms_
 
 ---

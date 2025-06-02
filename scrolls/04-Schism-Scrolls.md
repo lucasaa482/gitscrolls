@@ -348,7 +348,7 @@ The Fourth GitScroll was complete. Five more awaited, and with each one, Tuxrate
 
 ---
 
-__Next: [GitScroll V - "Refactor With Compassion"](05-Wounding-of-Hubris.md)__  
+__Next: [GitScroll V - "The Wounding of Hubris"](05-Wounding-of-Hubris.md)__  
 _As taught by The Wise Maintainer, Guardian of Code That Lives_
 
 ---
