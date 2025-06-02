@@ -21,12 +21,12 @@ _The Sacred Progression from Innocence to Transcendence_
 
 _Learning the sacred rules_
 
-__✅ Scroll I - "Thou Shalt Not Rewrite History"__ _(Complete)_  
+__✅ Scroll I - "The Unbroken Line"__ _(Complete)_  
 __Teacher:__ Linus the Elder  
 __Lesson:__ Respect for the shared timeline  
 __Growth:__ From chaos to discipline  
 
-__✅ Scroll II - "Commit Often, But With Intent"__ _(Complete)_  
+__✅ Scroll II - "The Chronicle of Forgotten Messages"__ _(Complete)_  
 __Teacher:__ Teacher of Lost Packets, The Chronicler of Comments  
 __Lesson:__ Every commit is communication  
 __Growth:__ From silence to storytelling  
@@ -37,18 +37,18 @@ __Growth:__ From silence to storytelling
 
 _Interrogating the deeper philosophy_
 
-__✅ Scroll III - "Tests Are Proof of Love"__ _(Complete)_  
+__✅ Scroll III - "The Oracle's Testament of Devotion"__ _(Complete)_  
 __Teacher:__ Prophet of Red-Green  
 __Lesson:__ Verification as care made executable  
 __Growth:__ From trust to proof, from assumption to understanding  
 
-__✅ Scroll IV - "Forks Are Not Betrayals"__ _(Complete)_  
+__✅ Scroll IV - "The Schism Scrolls"__ _(Complete)_  
 __Teacher:__ Fork-Bearer of Freedom  
 __Lesson:__ Freedom requires the right to diverge  
 __Growth:__ From loyalty to liberation  
 __Key Theme:__ When is forking service vs selfishness? The paradox of unity through division.
 
-__✅ Scroll V - "Refactor With Compassion"__ _(Complete)_  
+__✅ Scroll V - "The Wounding of Hubris"__ _(Complete)_  
 __Teacher:__ The Wise Maintainer  
 __Lesson:__ Change must serve both present and future  
 __Growth:__ From "make it work" to "make it beautiful"  
@@ -60,19 +60,19 @@ __Key Theme:__ How do you improve without destroying? The art of evolution vs re
 
 _Learning wisdom through consequence and isolation_
 
-__✅ Scroll VI - "Every Bug Is a Feature Request"__ _(Complete)_  
+__✅ Scroll VI - "Songs of the Chaos Sirens"__ _(Complete)_  
 __Teacher:__ The Trickster of GitHub Issues (Octocat energy)  
 __Lesson:__ Embrace the chaos of user creativity  
 __Growth:__ From fighting reality to dancing with it  
 __Key Theme:__ Users will use your software in ways you never imagined. This is not a problem—it's possibility.
 
-__✅ Scroll VII - "Deploy on Friday, Die on Weekend"__ _(Complete)_  
+__✅ Scroll VII - "Between the Monsters of Time"__ _(Complete)_  
 __Teacher:__ The Ancient DevOps Shaman  
 __Lesson:__ Timing is everything, and everything is timing  
 __Growth:__ From reckless confidence to seasoned wisdom  
 __Key Theme:__ The comedy and tragedy of production deployments. Why we do it anyway.
 
-__✅ Scroll VIII - "All Code Is Temporary, All Blame Is Eternal"__ _(Complete)_  
+__✅ Scroll VIII - "Before the Ancient Reviewer"__ _(Complete)_  
 __Teacher:__ The Ancient Reviewer, Digital Consciousness of Collective Memory  
 __Lesson:__ Nothing lasts, but everything leaves traces  
 __Growth:__ From building to accepting  
@@ -84,7 +84,7 @@ __Key Theme:__ The melancholy of maintenance. How to care for systems you know a
 
 _Completing the cycle by becoming the mentor, then returning home to begin anew_
 
-__✅ Scroll IX - "Be the Mentor You Needed When You Were a N00b"__ _(Complete)_  
+__✅ Scroll IX - "Commandments of the Wise"__ _(Complete)_  
 __Teacher:__ Tux Transcendent, The Teacher Who Completes the Cycle  
 __Lesson:__ The cycle completes through teaching  
 __Growth:__ From student to sage  

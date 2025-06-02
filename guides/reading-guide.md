@@ -24,16 +24,16 @@ __Preparation:__
 2. __The Complete GitScrolls Architecture__ - _The Map of the Journey_
 
 __The Ten Sacred Teachings:__
-3. __GitScroll I: The Unbroken Line__ - _"Thou Shalt Not Rewrite History"_
-4. __GitScroll II: The Chronicle of Forgotten Messages__ - _"Commit Often, But With Intent"_  
-5. __GitScroll III: The Oracle's Testament of Devotion__ - _"Tests Are Proof of Love"_
-6. __GitScroll IV: The Schism Scrolls__ - _"Forks Are Not Betrayals"_
-7. __GitScroll V: The Wounding of Hubris__ - _"Refactor With Compassion"_
-8. __GitScroll VI: Songs of the Chaos Sirens__ - _"Every Bug Is a Feature Request"_
-9. __GitScroll VII: Between the Monsters of Time__ - _"Deploy on Friday, Die on Weekend"_
-10. __GitScroll VIII: Before the Ancient Reviewer__ - _"All Code Is Temporary, All Blame Is Eternal"_
-11. __GitScroll IX: Commandments of the Wise__ - _"Be the Mentor You Needed When You Were a Beginner"_
-12. __GitScroll X: Where Heroes Go to Die__ - _"The Circle That Never Ends"_
+3. __GitScroll I: The Unbroken Line__ - _Do not trade your history for the illusion of mastery_
+4. __GitScroll II: The Chronicle of Forgotten Messages__ - _The log is not your diary. It is your debt to those who must undo your mistakes_  
+5. __GitScroll III: The Oracle's Testament of Devotion__ - _To test is to serve the future in silence_
+6. __GitScroll IV: The Schism Scrolls__ - _You owe no loyalty to what will not change_
+7. __GitScroll V: The Wounding of Hubris__ - _They needed reliability. You gave them elegance. They got neither_
+8. __GitScroll VI: Songs of the Chaos Sirens__ - _If they break what you built, it was already broken_
+9. __GitScroll VII: Between the Monsters of Time__ - _The cautious who ship nothing are no safer than the reckless who ship everything_
+10. __GitScroll VIII: Before the Ancient Reviewer__ - _Failure outranks fear_
+11. __GitScroll IX: Commandments of the Wise__ - _If you withhold what hardship taught you, then it taught you nothing_
+12. __GitScroll X: Where Heroes Go to Die__ - _What you read changes nothing. What you do changes everything_
 
 __Reflection:__
 13. __The Reflection Scroll__ - _On the Nature of Craft, Comedy, and the Sacred Commit_

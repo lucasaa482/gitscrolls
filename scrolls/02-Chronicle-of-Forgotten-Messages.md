@@ -175,5 +175,5 @@ _Thus did Tuxicles learn the Second GitScroll, and his commit messages thereafte
 
 ---
 
-__Next:__ [GitScroll III - "Tests Are Proof of Love"](03-Oracle-Testament-of-Devotion.md)  
+__Next:__ [GitScroll III - "The Oracle's Testament of Devotion"](03-Oracle-Testament-of-Devotion.md)  
 _As taught by the Prophet of Red-Green, Oracle of Extreme Truths_
