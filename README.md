@@ -1,5 +1,7 @@
 # 🐧 The GitScrolls 📜
 
+![Tux the penguin sits among classical Greek philosophers in togas, typing on a laptop while ancient thinkers gesture and debate around marble columns, representing the blend of timeless wisdom and modern software development](https://github.com/gitscrolls/gitscrolls-assets/blob/main/tuxicles.png?raw=true)
+
 _Sacred wisdom for the journey from first commit to final teaching_
 
 
