@@ -13,8 +13,8 @@ No. While they use mythological language and archetypal storytelling, the GitScr
 ### Do I need to read all ten scrolls?
 Not necessarily. Each scroll addresses different aspects of development. You can:
 - Read individual scrolls based on current challenges
-- Follow one of the [Reading Pathways](guides/reading-pathways.md) 
-- Start with the [Quick Start Guide](guides/quick-start-guide.md)
+- Start with any scroll that addresses your current challenges
+- Browse the scroll descriptions in the README to find relevant topics
 
 ### How long does it take to read the GitScrolls?
 - Complete collection: 2-3 hours
@@ -27,14 +27,14 @@ Absolutely! The progression from Tuxicles (the innocent) to Tux Transcendent (th
 ## Practical Application
 
 ### How do I use GitScrolls with my team?
-See the [Team Guide](guides/team-guide.md) for specific approaches:
+Here are approaches you can try:
 - Use scrolls as retrospective themes
 - Integrate principles into code reviews
 - Create scroll-based book clubs
 - Apply teachings to daily standup discussions
 
 ### Can I use GitScrolls for teaching/training?
-Yes! The [Mentoring Guide](guides/mentoring-guide.md) provides frameworks for:
+Yes! The GitScrolls can be used for:
 - One-on-one mentoring using scroll principles
 - Team workshops and discussions
 - Bootcamp or university curricula integration
@@ -50,7 +50,7 @@ While the stories reference Git specifically, the underlying principles apply to
 Start small:
 - Share one scroll that addresses a current team challenge
 - Focus on practical outcomes rather than philosophy
-- Use the [Crisis Intervention Path](guides/reading-pathways.md#the-problem-solvers-route) for specific issues
+- Start with scrolls that address specific current problems
 - Let improvements speak for themselves
 
 ## Content Questions
@@ -83,7 +83,7 @@ Tux is the Linux mascot, connecting to the open source tradition. Penguins are a
 ## Community Questions
 
 ### Can I contribute to the GitScrolls?
-Yes! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. We welcome:
+Yes! We welcome:
 - Translations to other languages
 - Real-world application examples
 - Commentary and interpretations
@@ -120,7 +120,7 @@ Yes! The entire repository can be cloned for offline reading. We may also create
 
 ### How do I stay updated?
 - Watch the GitHub repository for updates
-- Check the [CHANGELOG.md](CHANGELOG.md) for new releases
+- Watch the GitHub repository for new releases
 - Join community discussions for the latest developments
 
 ## Philosophy Questions

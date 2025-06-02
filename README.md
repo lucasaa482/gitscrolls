@@ -2,7 +2,6 @@
 
 _Sacred wisdom for the journey from first commit to final teaching_
 
-![Tux the penguin sits among classical Greek philosophers in togas, typing on a laptop while ancient thinkers gesture and debate around marble columns, representing the blend of timeless wisdom and modern software development](assets/images/tuxicles.png)
 
 ![GitScrolls](https://img.shields.io/badge/Scrolls-X%20Complete-sacred?style=for-the-badge)
 ![Wisdom](https://img.shields.io/badge/Wisdom-Tested%20in%20Production-blue?style=for-the-badge)
@@ -18,7 +17,6 @@ Born from the recognition that __software development is fundamentally about hum
 
 > _"In the beginning was the commit, and the commit was with Tux, and the commit was good."_
 
-__🚀 [Quick-Start Guide](guides/quick-start-guide.md)__ - _Get oriented in 5 minutes_  
 __📖 [Browse Scrolls](scrolls/)__ - _The complete teachings_  
 __🤝 [Join Community](https://github.com/gitscrolls/gitscrolls/discussions)__ - _Connect with others_
 
@@ -66,21 +64,9 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 - __Broke production?__ → [Scroll VII (Between the Monsters of Time)](scrolls/07-Between-Monsters-of-Time.md)
 - __Inheriting legacy code?__ → [Scroll VIII (Before the Ancient Reviewer)](scrolls/08-Before-Ancient-Reviewer.md)
 - __Team conflicts about code?__ → [Scroll IV (The Schism Scrolls)](scrolls/04-Schism-Scrolls.md) + [Scroll V (The Wounding of Hubris)](scrolls/05-Wounding-of-Hubris.md)
-- __Feeling burnt out?__ → [Scroll VI (Songs of the Chaos Sirens)](scrolls/06-Songs-of-Chaos-Sirens.md) + [Reflection Scroll](meta/reflection-scroll.md)
+- __Feeling burnt out?__ → [Scroll VI (Songs of the Chaos Sirens)](scrolls/06-Songs-of-Chaos-Sirens.md)
 - __New to mentoring?__ → [Scroll IX (Commandments of the Wise)](scrolls/09-Commandments-of-Wise.md)
 - __Looking for closure/completion?__ → [Scroll X (Where Heroes Go to Die)](scrolls/10-Where-Heroes-Go-to-Die.md)
-
-### __👥 Reading with Your Team?__
-
-- __[Team Discussion Guide](guides/team-guide.md)__ - One scroll per retrospective
-- __[Code Review Integration](guides/code-review-guide.md)__ - Apply scroll principles to PRs
-- __[Reading Pathways](guides/reading-pathways.md)__ - Choose your journey
-
-### __🧙 Teaching Others?__
-
-- __[Mentoring Framework](guides/mentoring-guide.md)__ - Use scrolls for coaching
-- __[Inclusive Language Guide](guides/inclusive-language-guide.md)__ - Community standards
-- __[Contributing Guidelines](CONTRIBUTING.md)__ - Join the community
 
 ---
 
@@ -103,81 +89,25 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 ---
 
-## __🏗️ Complete Resource Collection__
-
-### __📚 Core Teachings__
+## __📚 Repository Structure__
 
 ```
-├── scrolls/              # The Ten Sacred Teachings
-│   ├── 01-Unbroken-Line.md
-│   ├── 02-Chronicle-of-Forgotten-Messages.md
-│   ├── 03-Oracle-Testament-of-Devotion.md
-│   ├── 04-Schism-Scrolls.md
-│   ├── 05-Wounding-of-Hubris.md
-│   ├── 06-Songs-of-Chaos-Sirens.md
-│   ├── 07-Between-Monsters-of-Time.md
-│   ├── 08-Before-Ancient-Reviewer.md
-│   ├── 09-Commandments-of-Wise.md
-│   └── 10-Where-Heroes-Go-to-Die.md
-```
-
-### __🧠 Meta-Wisdom__
-
-```
-├── meta/                 # Foundational Understanding
-│   ├── reflection-scroll.md        # Why this matters
-│   ├── cosmology.md               # Sacred universe
-│   └── architecture.md            # Complete journey map
-```
-
-### __📋 Practical Guides__
-
-```
-├── guides/               # Application Frameworks
-│   ├── quick-start-guide.md       # 5-minute orientation
-│   ├── reading-guide.md           # How to approach the scrolls
-│   ├── reading-pathways.md        # Multiple entry points
-│   ├── team-guide.md             # Group study
-│   ├── mentoring-guide.md        # Teaching others
-│   ├── code-review-guide.md      # Code review integration
-│   └── inclusive-language-guide.md # Community standards
-```
-
-### __🌍 Community Resources__
-
-```
-├── Community discussions at GitHub Discussions
-├── Issue tracking for improvements and questions
-└── Pull requests for contributions and translations
-```
-
-### __🏛️ Governance & Standards__
-
-```
-├── governance/           # Project Leadership
-│   ├── README.md                 # Governance overview
-│   └── framework.md              # Community leadership structure
-```
-
-### __🎨 Media & Assets__
-
-```
-└── assets/               # Visual Elements
-    ├── images/                   # Character portraits & illustrations
-    └── website/                  # Web resources & demos
-```
-
-### __📋 Project Management__
-
-```
-├── .gitignore                    # Git exclusions
-├── .github/                      # GitHub templates
-├── CHANGELOG.md                  # Version history
-├── CONTRIBUTING.md               # Contribution guidelines
-├── FAQ.md                        # Frequently asked questions
-├── LICENSE                       # MIT License with Sacred Commit Clause
+gitscrolls/
 ├── README.md                     # This document
-└── SECURITY.md                   # Security policies
+├── LICENSE                       # MIT License with Sacred Commit Clause
+├── FAQ.md                        # Frequently asked questions
+├── 00-merge.lore                 # Living wisdom document
+└── scrolls/                      # The Ten Sacred Teachings
+    ├── 01-Unbroken-Line.md
+    ├── 02-Chronicle-of-Forgotten-Messages.md
+    ├── 03-Oracle-Testament-of-Devotion.md
+    ├── 04-Schism-Scrolls.md
+    ├── 05-Wounding-of-Hubris.md
+    ├── 06-Songs-of-Chaos-Sirens.md
+    ├── 07-Between-Monsters-of-Time.md
+    ├── 08-Before-Ancient-Reviewer.md
+    ├── 09-Commandments-of-Wise.md
+    └── 10-Where-Heroes-Go-to-Die.md
 ```
 
 ---
@@ -217,7 +147,7 @@ The GitScrolls are __living wisdom__ that grows through community contribution:
 
 ### __📋 Contribution Standards__
 
-All contributions must follow our __[Inclusive Language Guide](guides/inclusive-language-guide.md)__ and __[Quality Standards](CONTRIBUTING.md#quality-standards)__:
+When contributing, please maintain:
 
 ✅ __Align with core values__ - Compassion, wisdom, community  
 ✅ __Use inclusive language__ - Welcome all developers  
@@ -225,7 +155,7 @@ All contributions must follow our __[Inclusive Language Guide](guides/inclusive-
 ✅ __Maintain philosophical depth__ - More than technical tips  
 ✅ __Respect the mythology__ - Consistent with established lore  
 
-See __[CONTRIBUTING.md](CONTRIBUTING.md)__ for detailed guidelines and __[Governance Framework](governance/framework.md)__ for community leadership.
+Community guidelines and governance frameworks will be available in separate repositories within the GitScrolls organization.
 
 ---
 
@@ -310,8 +240,7 @@ _Deep gratitude to the penguin who first committed "fix stuff" and began this jo
 
 - __Questions?__ Open an [Issue](https://github.com/gitscrolls/gitscrolls/issues) or check our [FAQ](FAQ.md)
 - __Ideas?__ Open an [Issue](https://github.com/gitscrolls/gitscrolls/issues) or [Feature Request](https://github.com/gitscrolls/gitscrolls/issues/new/choose)
-- __Wisdom to share?__ Follow our [Contributing Guide](CONTRIBUTING.md) and submit a Pull Request
-- __Want to teach?__ Check our [Mentoring Guide](guides/mentoring-guide.md)
+- __Wisdom to share?__ Submit a Pull Request with your contributions
 
 ### __📈 Project Growth__
 
@@ -325,4 +254,4 @@ __🐧 May your code be clean, your commits be meaningful, and your legacy be on
 
 ---
 
-__License:__ [MIT](LICENSE) | __Contributing:__ [Guidelines](CONTRIBUTING.md) | __Governance:__ [Framework](governance/framework.md)
+__License:__ [MIT](LICENSE)
