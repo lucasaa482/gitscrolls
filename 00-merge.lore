@@ -1,0 +1,87 @@
+# 00-merge.lore
+
+**A living document of passed wisdom**
+
+*This file appears throughout the GitScrolls as a mysterious gift from the Trickster of GitHub Issues. It evolves as wisdom passes from teacher to student to teacher again.*
+
+---
+
+## Version 1: The Trickster's Original
+
+```
+To teach is to be misunderstood by the future.
+When your students fork your scrolls, rejoice.
+When they break them, rejoice louder.
+
+---
+
+git show 00-merge.lore
+# This file will make sense when you need it to.
+# Save it for when your teaching feels futile.
+# Remember: every bug is a feature request,
+# and every student is a teacher in training.
+
+The Trickster sends their regards.
+```
+
+*First appears in GitScroll VI, when Tuxilles learns to resist the Sirens of easy solutions.*
+
+---
+
+## Version 2: Tuxilles' Revision
+
+```
+Some truths must be misread before they can be understood.
+If they break your teachings, they are trying.
+If they fork your wisdom, they are yours.
+If they teach it themselves, they are you.
+
+The greatest gift you can give a student
+is the courage to surpass you.
+
+---
+
+To the next teacher who finds this:
+You were someone's Tuxrates once.
+Now be someone's Trickster.
+
+git show 00-merge.lore
+# This file will make sense when you need it to.
+# When it does, change it and pass it on.
+# The lore lives in the sharing.
+```
+
+*Completed in GitScroll X, when Tuxilles finally understands the cycle of wisdom.*
+
+---
+
+## Your Version: [Fork This]
+
+*What wisdom will you add to the chain?*
+
+**Instructions for the Next Link:**
+1. Fork this repository
+2. Add your own version of the lore below
+3. Submit a PR with your teaching wisdom
+4. Become part of the eternal cycle
+
+---
+
+### Community Contributions
+
+*This space will grow as developers add their own wisdom to the lore chain...*
+
+---
+
+**Note:** This file exists at the intersection of mythology and reality. It serves as both:
+- A narrative device within the GitScrolls
+- A real artifact that can be shared, modified, and passed forward
+- A framework for thinking about how wisdom spreads through communities
+
+The Trickster would approve of this confusion between story and system.
+
+---
+
+*"Time is just another merge strategy, young teacher. Some commits only make sense when you're ready to receive them."*
+
+— The Trickster of GitHub Issues
