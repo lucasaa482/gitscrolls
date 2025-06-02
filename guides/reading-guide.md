@@ -23,19 +23,20 @@ __Preparation:__
 1. __The GitScrolls Cosmology__ - _Understanding the Sacred Universe_
 2. __The Complete GitScrolls Architecture__ - _The Map of the Journey_
 
-__The Nine Sacred Teachings:__
-3. __GitScroll I: The Sacred Timeline__ - _"Thou Shalt Not Rewrite History"_
-4. __GitScroll II: Meaningful Messages__ - _"Commit Often, But With Intent"_  
-5. __GitScroll III: The Oracle's Proof of Love__ - _"Tests Are Proof of Love"_
-6. __GitScroll IV: Sacred Freedom__ - _"Forks Are Not Betrayals"_
-7. __GitScroll V: Compassionate Change__ - _"Refactor With Compassion"_
-8. __GitScroll VI: Creative Chaos__ - _"Every Bug Is a Feature Request"_
-9. __GitScroll VII: Sacred Timing__ - _"Deploy on Friday, Die on Weekend"_
-10. __GitScroll VIII: Eternal Legacy__ - _"All Code Is Temporary, All Blame Is Eternal"_
-11. __GitScroll IX: Sacred Teaching__ - _"Be the Mentor You Needed When You Were a Beginner"_
+__The Ten Sacred Teachings:__
+3. __GitScroll I: The Unbroken Line__ - _Do not trade your history for the illusion of mastery_
+4. __GitScroll II: The Chronicle of Forgotten Messages__ - _The log is not your diary. It is your debt to those who must undo your mistakes_  
+5. __GitScroll III: The Oracle's Testament of Devotion__ - _To test is to serve the future in silence_
+6. __GitScroll IV: The Schism Scrolls__ - _You owe no loyalty to what will not change_
+7. __GitScroll V: The Wounding of Hubris__ - _They needed reliability. You gave them elegance. They got neither_
+8. __GitScroll VI: Songs of the Chaos Sirens__ - _If they break what you built, it was already broken_
+9. __GitScroll VII: Between the Monsters of Time__ - _The cautious who ship nothing are no safer than the reckless who ship everything_
+10. __GitScroll VIII: Before the Ancient Reviewer__ - _Failure outranks fear_
+11. __GitScroll IX: Commandments of the Wise__ - _If you withhold what hardship taught you, then it taught you nothing_
+12. __GitScroll X: Where Heroes Go to Die__ - _What you read changes nothing. What you do changes everything_
 
 __Reflection:__
-12. __The Reflection Scroll__ - _On the Nature of Craft, Comedy, and the Sacred Commit_
+13. __The Reflection Scroll__ - _On the Nature of Craft, Comedy, and the Sacred Commit_
 
 ---
 
@@ -44,23 +45,24 @@ __Reflection:__
 ### __The Quick Start Path__ _(For Busy Developers)_
 
 - __Architecture__ (5 min overview)
-- __Scroll I__ (Sacred Timeline - foundational)
+- __Scroll I__ (The Unbroken Line - foundational)
 - __Scroll III__ (Tests as Love - practical wisdom)
-- __Scroll IX__ (Teaching - completing the cycle)
+- __Scroll X__ (Where Heroes Go to Die - completing the cycle)
 - __Reflection Scroll__ (understanding the deeper meaning)
 
 ### __The Crisis Intervention Path__ _(For Developers in Specific Trouble)_
 
-- __Broke production?__ → Scroll VII (Sacred Timing)
-- __Inheriting legacy code?__ → Scroll VIII (Eternal Legacy)  
-- __Fighting with teammates?__ → Scroll IV (Sacred Freedom) + Scroll V (Compassionate Change)
-- __Feeling burnt out?__ → Scroll VI (Creative Chaos) + Reflection Scroll
-- __New to leadership?__ → Scroll IX (Sacred Teaching)
+- __Broke production?__ → Scroll VII (Between the Monsters of Time)
+- __Inheriting legacy code?__ → Scroll VIII (Before the Ancient Reviewer)  
+- __Fighting with teammates?__ → Scroll IV (The Schism Scrolls) + Scroll V (The Wounding of Hubris)
+- __Feeling burnt out?__ → Scroll VI (Songs of the Chaos Sirens) + Reflection Scroll
+- __New to leadership?__ → Scroll IX (Commandments of the Wise)
 
 ### __The Teaching Path__ _(For Mentors and Team Leads)_
 
 - __Architecture__ (understand the complete journey)
 - __Scroll IX__ (the philosophy of teaching)
+- __Scroll X__ (the completion of the circular journey)
 - __Scroll I-III__ (foundational principles to teach first)
 - __Scroll V + VIII__ (advanced wisdom for senior discussions)
 - __Reflection Scroll__ (meta-framework for understanding growth)
@@ -71,6 +73,7 @@ __Reflection:__
 - __Scroll IV__ (freedom and community)
 - __Scroll VIII__ (legacy and meaning)
 - __Scroll IX__ (responsibility and service)
+- __Scroll X__ (the eternal cycle of teaching and return)
 - __Reflection Scroll__ (the nature of craft)
 
 ---

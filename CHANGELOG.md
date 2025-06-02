@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Initial release of the Nine Sacred GitScrolls
+- Initial release of the Ten Sacred GitScrolls
 - Comprehensive guides for teams, mentoring, and code reviews
 - Community governance framework
 - Inclusive language guidelines
@@ -26,15 +26,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-05-30
 
 ### Added
-- GitScroll I: The Sacred Timeline - "Thou Shalt Not Rewrite History"
-- GitScroll II: Meaningful Messages - "Commit Often, But With Intent" 
-- GitScroll III: The Oracle's Proof of Love - "Tests Are Proof of Love"
-- GitScroll IV: Sacred Freedom - "Forks Are Not Betrayals"
-- GitScroll V: Compassionate Change - "Refactor With Compassion"
-- GitScroll VI: Creative Chaos - "Every Bug Is a Feature Request"
-- GitScroll VII: Sacred Timing - "Deploy on Friday, Die on Weekend"
-- GitScroll VIII: Eternal Legacy - "All Code Is Temporary, All Blame Is Eternal"
-- GitScroll IX: Sacred Teaching - "Be the Mentor You Needed When You Were a Beginner"
+- GitScroll I: The Unbroken Line - "Do not trade your history for the illusion of mastery"
+- GitScroll II: The Chronicle of Forgotten Messages - "The log is not your diary. It is your debt to those who must undo your mistakes"
+- GitScroll III: The Oracle's Testament of Devotion - "To test is to serve the future in silence"
+- GitScroll IV: The Schism Scrolls - "You owe no loyalty to what will not change"
+- GitScroll V: The Wounding of Hubris - "They needed reliability. You gave them elegance. They got neither"
+- GitScroll VI: Songs of the Chaos Sirens - "If they break what you built, it was already broken"
+- GitScroll VII: Between the Monsters of Time - "The cautious who ship nothing are no safer than the reckless who ship everything"
+- GitScroll VIII: Before the Ancient Reviewer - "Failure outranks fear"
+- GitScroll IX: Commandments of the Wise - "If you withhold what hardship taught you, then it taught you nothing"
+- GitScroll X: Where Heroes Go to Die - "What you read changes nothing. What you do changes everything"
 - Complete meta-documentation (cosmology, architecture, reflection)
 - Practical guides for teams, mentoring, code reviews, and reading pathways
 - Community governance framework and contribution guidelines

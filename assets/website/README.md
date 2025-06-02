@@ -7,7 +7,7 @@ Website assets for the GitScrolls project.
 ### index.html
 The main GitScrolls website homepage featuring:
 - Project introduction
-- Overview of the Nine Scrolls
+- Overview of the Ten Scrolls
 - Beautiful dark theme design
 - Responsive layout
 - The Tux mascot integration

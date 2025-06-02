@@ -5,12 +5,12 @@ Frequently asked questions about the Sacred Teachings and their practical applic
 ## General Questions
 
 ### What are the GitScrolls?
-The GitScrolls are nine archetypal teachings that trace the journey every developer takes—from innocent beginner to wise mentor. They combine genuine technical wisdom with engaging mythology to make development principles accessible, memorable, and practical.
+The GitScrolls are ten archetypal teachings that trace the journey every developer takes—from innocent beginner to wise mentor. They combine genuine technical wisdom with engaging mythology to make development principles accessible, memorable, and practical.
 
 ### Are the GitScrolls religious or spiritual?
 No. While they use mythological language and archetypal storytelling, the GitScrolls are secular wisdom about software development. The "sacred" language is metaphorical—recognizing that good development practices deserve reverence and care. Developers of all backgrounds and beliefs can benefit from the teachings.
 
-### Do I need to read all nine scrolls?
+### Do I need to read all ten scrolls?
 Not necessarily. Each scroll addresses different aspects of development. You can:
 - Read individual scrolls based on current challenges
 - Follow one of the [Reading Pathways](guides/reading-pathways.md) 
@@ -104,7 +104,7 @@ Licensed under MIT with Sacred Commit Clause
 ```
 
 ### Are there plans for expansion?
-The nine core scrolls are complete, but the tradition continues through:
+The ten core scrolls are complete, but the tradition continues through:
 - Community-contributed "Lost Scrolls"
 - Translations and cultural adaptations
 - Practical tools and integrations

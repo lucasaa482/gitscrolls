@@ -54,19 +54,19 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ### For Junior Developers
 
-**Start with Scroll II: Meaningful Messages**
+**Start with Scroll II: The Chronicle of Forgotten Messages**
 - **Practice**: Review their commits together
 - **Exercise**: Rewrite commit messages as stories
 - **Goal**: Build communication skills early
 - **Why**: Good habits are easier to build than break
 
-**Follow with Scroll IX: Sacred Teaching**
+**Follow with Scroll IX: Commandments of the Wise**
 - **Practice**: Have them explain code they've written
 - **Exercise**: Create documentation for their features
 - **Goal**: Learn by teaching others
 - **Why**: Teaching deepens understanding
 
-**Then Scroll VI: Creative Chaos**
+**Then Scroll VI: Songs of the Chaos Sirens**
 - **Practice**: Debug together without judgment
 - **Exercise**: Keep a "bug journal" with lessons learned
 - **Goal**: Build resilience and curiosity
@@ -74,19 +74,19 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ### For Mid-Level Developers
 
-**Start with Scroll III: Oracle of Love**
+**Start with Scroll III: The Oracle's Testament of Devotion**
 - **Practice**: Role-play code reviews
 - **Exercise**: Review code with different "lenses"
 - **Goal**: Develop empathetic review skills
 - **Why**: Prepares them for senior responsibilities
 
-**Follow with Scroll V: Compassionate Change**
+**Follow with Scroll V: The Wounding of Hubris**
 - **Practice**: Refactor legacy code together
 - **Exercise**: Write "appreciation notes" to old code
 - **Goal**: Balance improvement with respect
 - **Why**: Builds architectural thinking
 
-**Then Scroll VII: Sacred Timing**
+**Then Scroll VII: Between the Monsters of Time**
 - **Practice**: Estimate and track tasks together
 - **Exercise**: Identify sustainable vs. rush pacing
 - **Goal**: Develop project rhythm sense
@@ -94,13 +94,13 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ### For Senior Developers
 
-**Start with Scroll I: Sacred Timeline**
+**Start with Scroll I: The Unbroken Line**
 - **Practice**: Map their project's evolution
 - **Exercise**: Document architectural decisions
 - **Goal**: See the bigger picture
 - **Why**: Develops strategic thinking
 
-**Follow with Scroll VIII: Eternal Legacy**
+**Follow with Scroll VIII: Before the Ancient Reviewer**
 - **Practice**: Identify code that will last
 - **Exercise**: Create succession planning docs
 - **Goal**: Build for the long term
@@ -114,7 +114,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 
 ## Mentoring Conversations by Scroll
 
-### Scroll I: Sacred Timeline
+### Scroll I: The Unbroken Line
 **Questions to explore:**
 - "How has this codebase evolved?"
 - "What patterns do you see repeating?"
@@ -125,7 +125,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Timeline mapping exercises
 - Legacy code appreciation
 
-### Scroll II: Meaningful Messages
+### Scroll II: The Chronicle of Forgotten Messages
 **Questions to explore:**
 - "What story does this commit tell?"
 - "Who needs to understand this change?"
@@ -136,7 +136,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Storytelling practice
 - Communication exercises
 
-### Scroll III: Oracle of Love
+### Scroll III: The Oracle's Testament of Devotion
 **Questions to explore:**
 - "How did that review make you feel?"
 - "What can we learn from this feedback?"
@@ -147,7 +147,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Feedback practice
 - Empathy exercises
 
-### Scroll IV: Sacred Freedom
+### Scroll IV: The Schism Scrolls
 **Questions to explore:**
 - "What are we celebrating with this release?"
 - "Who contributed to this success?"
@@ -158,7 +158,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Success storytelling
 - Gratitude practices
 
-### Scroll V: Compassionate Change
+### Scroll V: The Wounding of Hubris
 **Questions to explore:**
 - "Why was this written this way originally?"
 - "What constraints existed then?"
@@ -169,7 +169,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Refactoring with respect
 - Change impact analysis
 
-### Scroll VI: Creative Chaos
+### Scroll VI: Songs of the Chaos Sirens
 **Questions to explore:**
 - "What is this bug trying to teach us?"
 - "Where is the opportunity in this problem?"
@@ -180,7 +180,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Failure celebration
 - Resilience building
 
-### Scroll VII: Sacred Timing
+### Scroll VII: Between the Monsters of Time
 **Questions to explore:**
 - "Is this pace sustainable?"
 - "Where do we need to slow down?"
@@ -191,7 +191,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Deadline negotiation
 - Rest planning
 
-### Scroll VIII: Eternal Legacy
+### Scroll VIII: Before the Ancient Reviewer
 **Questions to explore:**
 - "Will this code outlive us?"
 - "What are we leaving for others?"
@@ -202,7 +202,7 @@ Mentoring through GitScrolls combines technical guidance with wisdom practices, 
 - Knowledge transfer planning
 - Legacy building
 
-### Scroll IX: Sacred Teaching
+### Scroll IX: Commandments of the Wise
 **Questions to explore:**
 - "What have you learned recently?"
 - "Who could benefit from your knowledge?"

@@ -1,17 +1,31 @@
 ---
-title: "GitScroll I: The Innocent Penguin"
+title: "GitScroll I: The Unbroken Line"
 aliases:
-  - "GitScroll I: The Innocent Penguin"
-linter-yaml-title-alias: "GitScroll I: The Innocent Penguin"
+  - "GitScroll I: The Unbroken Line"
+  - "The Unbroken Line"
+linter-yaml-title-alias: "GitScroll I: The Unbroken Line"
 date created: Thursday, May 29th 2025, 7:17:21 pm
 date modified: Thursday, May 29th 2025, 7:20:35 pm
 created: 2025-05-29T19:17
 updated: 2025-05-30T06:41
 ---
 
-# GitScroll I: The Innocent Penguin
+# GitScroll I: The Unbroken Line
 
 _The Chronicles of Tuxicles and the Birth of Version Control Wisdom_
+
+---
+
+> __"Do not trade your history for the illusion of mastery."__
+
+---
+
+To prune the past is but to feign thy grace,  
+And rob the root that gave thy courage birth.  
+Let flaws stand firm, that others find their place—  
+For history denied is stolen worth.  
+
+The broken line is still a line—and thine.
 
 ---
 
@@ -36,6 +50,8 @@ After pushing.
 To production.
 
 While three other developers were mid-merge.
+
+As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. Tuxicles paused, tongue probing the unfamiliar sensation, then shrugged. Probably just the cheap coffee from the break room. Nothing important.
 
 ---
 
@@ -222,8 +238,8 @@ The First GitScroll was complete. Eight more awaited.
 
 ---
 
-__Next: [GitScroll II - "Commit Often, But With Intent"](02-Meaningful-Messages.md)__  
-_As taught by the Saint of the Bazaar_
+__Next: [GitScroll II - "The Chronicle of Forgotten Messages"](02-Chronicle-of-Forgotten-Messages.md)__  
+_As taught by the Teacher of Lost Packets_
 
 ---
 
