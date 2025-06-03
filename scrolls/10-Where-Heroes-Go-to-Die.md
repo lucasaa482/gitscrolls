@@ -65,6 +65,8 @@ __Tuxilles:__ _(preparing for his return presentation)_ "Today I go home. Not to
 
 The great hall of the Temple of Open Source had been redesigned since Tuxilles' exile. Where once harsh fluorescent lights illuminated austere workstations, warm ambient lighting now invited collaboration. The intimidating podium from which verdicts were delivered had been replaced by a circular discussion space.
 
+The circular design reminded him of the Monument of Division in the Gardens—branches that diverged but remained part of the same tree. Even architecture could embody the lessons of forking and unity.
+
 As Tuxilles entered, his glowing scars pulsed with recognition—this was no longer the temple that had cast him out in fear and anger. This was a community that had learned from his exile as much as he had learned from it.
 
 **The Council's Welcome**
@@ -216,7 +218,7 @@ __Linus:__ "You have sixty minutes to coordinate the response. Not to fix it you
 
 Every developer in the chamber felt the weight of the moment. This was either the perfect redemption story or the ultimate irony—Tuxilles facing his original failure domain under maximum stress, with the entire community watching.
 
-But Tuxilles' scars didn't pulse with panic. They glowed with steady purpose.
+But Tuxilles' scars didn't pulse with panic. They glowed with steady purpose. Each one activated with its learned wisdom—the beak chip providing moral clarity about serving users over saving face, the eye flickers seeing through the complexity to core needs, the chest crack radiating the courage earned at the Strait of Sacred Timing, the flipper tingle keeping him from rushing into heroic solo coding.
 
 __Tuxilles:__ _(with calm authority)_ "Council, may I request emergency coordination privileges for the next hour?"
 
