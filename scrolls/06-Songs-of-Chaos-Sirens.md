@@ -75,6 +75,8 @@ But the most dangerous of all was **Skip-The-Ceremony**, whose song could make a
 
 __Skip-The-Ceremony:__ "Poor exile... cast out for caring too much about elegance. Look how they mock your suffering while their systems crumble. Why not give them what they deserve?"
 
+The scar in his beak throbbed—a dull reminder of where his last attempt at "elegant solutions" had led him. Somewhere in his memory, Linus the Elder's voice echoed: "_The timeline is truth, even when ugly._"
+
 ---
 
 ### Act II: The Temptation Arrives
