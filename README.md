@@ -50,11 +50,11 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 | __[II](scrolls/02-Chronicle-of-Forgotten-Messages.md)__ | _"The Chronicle of Forgotten Messages"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
 | __[III](scrolls/03-Oracle-Testament-of-Devotion.md)__ | _"The Oracle's Testament of Devotion"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
 | __[IV](scrolls/04-Schism-Scrolls.md)__ | _"The Schism Scrolls"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
-| __[V](scrolls/05-Wounding-of-Hubris.md)__ | _"The Wounding of Hubris"_ | __Questioner__ | The Wise Maintainer | Change without breaking trust |
+| __[V](scrolls/05-Wounding-of-Hubris.md)__ | _"The Wounding of Hubris"_ | __Transition→Exile__ | Learned through consequence | Change without breaking trust |
 | __[VI](scrolls/06-Songs-of-Chaos-Sirens.md)__ | _"Songs of the Chaos Sirens"_ | __Exile__ | The Trickster | Wisdom in user creativity |
-| __[VII](scrolls/07-Between-Monsters-of-Time.md)__ | _"Between the Monsters of Time"_ | __Exile__ | Ancient DevOps Shaman | Courage requires responsibility |
+| __[VII](scrolls/07-Between-Monsters-of-Time.md)__ | _"Between the Monsters of Time"_ | __Exile__ | Learned through terror | Courage requires responsibility |
 | __[VIII](scrolls/08-Before-Ancient-Reviewer.md)__ | _"Before the Ancient Reviewer"_ | __Exile__ | The Ancient Reviewer | Legacy as different form of life |
-| __[IX](scrolls/09-Commandments-of-Wise.md)__ | _"Commandments of the Wise"_ | __Teacher__ | Tux Transcendent | Completing the recursive cycle |
+| __[IX](scrolls/09-Commandments-of-Wise.md)__ | _"Commandments of the Wise"_ | __Teacher__ | The Oracle of Teaching | Completing the recursive cycle |
 | __[X](scrolls/10-Where-Heroes-Go-to-Die.md)__ | _"Where Heroes Go to Die"_ | __Teacher__ | Temple of Open Source | The eternal cycle of learning and teaching |
 
 ---
@@ -80,14 +80,14 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 > _"The Timeline Is Truth, Even When Ugly."_  
 > __—Linus the Elder, [GitScroll I](scrolls/01-Unbroken-Line.md)__
 
-> _"Bug reports are love letters written in frustration."_  
+> _"Every bug is a feature request."_  
 > __—The Trickster of GitHub Issues, [GitScroll VI](scrolls/06-Songs-of-Chaos-Sirens.md)__
 
-> _"Legacy is not death—it is a different form of life."_  
-> __—From the Chronicles, [GitScroll VIII](scrolls/08-Before-Ancient-Reviewer.md)__
+> _"Eternal code is not clever code. Eternal code is kind code."_  
+> __—The Ancient Reviewer, [GitScroll VIII](scrolls/08-Before-Ancient-Reviewer.md)__
 
-> _"Be the mentor you needed when you were a beginner."_  
-> __—Tux Transcendent, [GitScroll IX](scrolls/09-Commandments-of-Wise.md)__
+> _"Be the mentor you needed when you began."_  
+> __—The Oracle of Teaching, [GitScroll IX](scrolls/09-Commandments-of-Wise.md)__
 
 ---
 
