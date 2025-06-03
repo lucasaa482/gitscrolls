@@ -11,6 +11,39 @@ _Sacred wisdom for the journey from first commit to final teaching_
 
 ---
 
+*[Found carved into ancient marble at the entrance to the Temple of Open Source]*
+
+> As writ by one wearied of thine cursed deploys  
+> Attend, good kin of keyboard and command,  
+> this scroll doth not unveil a tale of gods,  
+> nor chosen heirs, nor valiant feats alone.
+> 
+> Nay—this is every dev's unvarnish'd path,  
+> from eager fool to weary steward wise.  
+> Lo, Tuxicles—a name thou know'st in heart.  
+> He dared commit ere wisdom he possess'd.
+> 
+> He broke the build, and yet—return'd anon.  
+> Not hero born, but hero by return.  
+> The GitScrolls, forged in jest, became our creed;  
+> for what begins in mirth oft ends in truth.
+> 
+> What jest reveals, the sober soul must keep.  
+> These pages contradict, as devs oft do.  
+> They err, correct, then err again in loop.
+> 
+> Yet through this branching maze persists one law:  
+> The branch was ever thine to fork.  
+> Take what thou need'st. Pass on the rest in peace.
+> 
+> And when thine code breaks thrice before it runs,  
+> remember this: thou art not first, nor lone.
+> 
+> — The Maintainer of These Scrolls  
+> _"To blame, or not to blame—that is the log."_
+
+---
+
 ## __🎯 What Are The GitScrolls?__
 
 The __GitScrolls__ are ten sacred teachings that trace the archetypal journey every developer takes—from innocent beginner who commits "fix stuff" to wise mentor who helps others navigate the beautiful complexity of software development.
