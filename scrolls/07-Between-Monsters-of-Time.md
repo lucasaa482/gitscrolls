@@ -50,7 +50,7 @@ The timing could not have been more cruel. A critical zero-day vulnerability had
 
 __Tuxilles:__ _(staring at the security advisory)_ "Of course it's Friday. Of course it's Valentine's Day. Of course the universe wants to test whether I've learned anything about timing and responsibility."
 
-The scar in his beak throbbed—not in warning this time, but in recognition. This was the test. This was where wisdom met reality.
+The scar in his beak throbbed—not in warning this time, but in recognition. This was the test. This was where wisdom met reality. His eyes flickered momentarily, the clarity guardian from his encounter with the Sirens reminding him to see through the panic to what truly mattered.
 
 **Emotional Beat: ANXIETY**
 
@@ -128,6 +128,8 @@ The beak chip throbbed—not in warning this time, but in memory. He remembered 
 *"Preserve behavior while improving implementation..."*  
 *"Provide migration paths, not migration demands..."*  
 *"Listen to resistance—it often contains wisdom..."*
+
+And before that, the Prophet of Red-Green's voice: "_We test not because we doubt our ability to think, but because we respect the gap between thinking and reality._" This deployment would test that gap under maximum pressure.
 
 This patch preserved behavior (fixed security) while improving implementation (closed vulnerability). The canary deployment was a migration path. The weekend monitoring was listening to resistance.
 
