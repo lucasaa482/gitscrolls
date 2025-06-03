@@ -37,11 +37,13 @@ _As taught by the __Prophet of Red-Green__, Oracle of Extreme Truths, Speaker of
 
 ### Prologue: The Transformation
 
-Seven moons had passed since the teachings of the Saint of the Bazaar, and something had changed in the young penguin's spirit. Where once stood __Tuxicles the Innocent__, now walked __Tuxrates the Questioner__—a developer who had tasted the bitter fruit of knowledge and found it both nourishing and troubling.
+Seven moons had passed since the teachings of the Teacher of Lost Packets, and something had changed in the young penguin's spirit. Where once stood __Tuxicles the Innocent__, now walked __Tuxrates the Questioner__—a developer who had tasted the bitter fruit of knowledge and found it both nourishing and troubling.
 
 He no longer committed without thought. He no longer pushed without purpose. But with each lesson learned, ten new questions bloomed like merge conflicts in his mind.
 
 _Why_ do we test? _What_ is the true nature of quality? _When_ does care become paranoia? And most troubling of all: _How_ can we prove we love something we cannot touch?
+
+The lessons from his first teachers echoed in these questions. Linus had taught him that history mattered—but what good was preserving history if the code didn't work? The Teacher of Lost Packets had shown him that communication mattered—but what if the message was "this code is untested"?
 
 It was with these questions burning in his heart that Tuxrates approached the Lightning Fields of CI/CD, where the eternal dance of green and red painted the sky with the rhythm of verification.
 
@@ -51,11 +53,19 @@ It was with these questions burning in his heart that Tuxrates approached the Li
 
 The Lightning Fields stretched to the horizon—a vast expanse where automated tests ran without cease, their results crackling across the heavens like digital aurora. Here, in this place where code faced judgment, the very air hummed with the tension between hope and failure.
 
+Above them, floating in the charged air, the Temple's monitoring system tracked every test result:
+
+__@TempleSentinel:__ "Test coverage: 12%. Critical paths untested: 88%. Deployment risk assessment: EXTREME."
+
 __Tuxrates__ stood at the edge of the field, watching the light show with the fascination of one who had begun to understand that testing was more than mere validation—it was philosophy made manifest.
 
 Green lightning: _Success. Relief. The quiet joy of things working as intended._
 
 Red thunder: _Failure. Learning. The sharp pain of reality correcting assumption._
+
+The Prophet noticed Tuxrates glancing at the warning.
+
+__Prophet of Red-Green:__ "Ah, you see the Sentinel's assessment. Cold numbers, yes, but what do they truly measure? Not just code coverage, but care coverage."
 
 __Tuxrates:__ _(to the wind)_ "If my code compiles and runs, why torment it with tests? Why not trust in the beauty of logic and the elegance of algorithm?"
 
@@ -76,6 +86,14 @@ __Prophet of Red-Green:__ "I am the Prophet of Red-Green, though some call me th
 __Tuxrates:__ "Master Oracle, I seek understanding. My previous teachers spoke of history and communication—noble concepts both. But you speak of testing, which seems to question the very code we write. Is not testing an admission of failure?"
 
 __Prophet of Red-Green:__ _(smiling with the patience of one who had answered this question a thousand times)_ "Ah, Tuxrates, you ask the question that separates the novice from the practitioner. Come, let me show you something."
+
+__Tuxrates:__ "But Master, Linus taught me to preserve history faithfully, and the Teacher of Lost Packets taught me to communicate clearly. Yet what good is preserving history if the code doesn't work? What if my clear message must be 'this code is untested'?"
+
+__Prophet of Red-Green:__ "Now you ask the deeper question! You have learned half the lesson from each teacher. History without verification is merely archaeology of failures. Communication without validation is confession without redemption. Testing completes what your previous teachers began—it ensures the history you preserve is worth preserving, and the messages you write can be trusted."
+
+__Tuxrates:__ "So testing doesn't contradict their teachings—it fulfills them?"
+
+__Prophet of Red-Green:__ "Precisely. Come, let me show you how."
 
 ---
 

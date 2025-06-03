@@ -50,6 +50,8 @@ _Tuxrates' phone buzzed with a notification from GitHub: "Code review feedback o
 
 _As he swiped the notification away, a subtle tremor ran through his shell—like a low-frequency vibration, barely perceptible but somehow unsettling. He shifted uncomfortably on the bench, attributing the odd sensation to the old metal structure creaking in the wind._
 
+_The static from the Lightning Fields still occasionally danced across his feathers when he thought about skipping tests. Now this new sensation. His body was becoming a map of ignored warnings._
+
 __Tuxrates:__ _(to the wind-scattered commits)_ "Is this what freedom looks like? Chaos? Division? The dissolution of unity into a thousand competing visions?"
 
 The question hung in the air like a merge conflict awaiting resolution.
@@ -61,6 +63,8 @@ The question hung in the air like a merge conflict awaiting resolution.
 In the heart of the Gardens stood the __Monument of Division__—a great tree whose trunk had split into countless branches, each growing in its own direction, yet all drawing from the same roots. It was here that developers came to contemplate the deepest paradox of open source: that unity was achieved through the freedom to divide.
 
 __Tuxrates__ sat beneath this tree, his ThinkPad open to a screen showing the network graph of a popular project—a beautiful, chaotic explosion of branches and merges that looked more like abstract art than version control.
+
+__@TempleSentinel:__ "Active forks: 47. Divergence metrics: significant. Community fragmentation index: 0.73. Monitoring for convergence patterns..."
 
 __Tuxrates:__ "How can this be right? How can fragmentation serve community? How can division strengthen rather than weaken?"
 
@@ -87,6 +91,10 @@ He gestured to the Monument above them, its countless branches reaching in every
 __Tuxrates:__ "They… they grow in different directions, but they're all part of the same tree."
 
 __Fork-Bearer of Freedom:__ "Exactly. And each branch serves the whole by exploring different possibilities, reaching toward different light, adapting to different conditions. The tree is stronger because of its diversity, not despite it."
+
+He glanced at where the Sentinel's metrics still floated in the air.
+
+__Fork-Bearer of Freedom:__ "The Sentinel counts forks as fragmentation. But what it cannot measure is innovation, exploration, the courage to diverge. Numbers tell only part of the story."
 
 ---
 
@@ -116,7 +124,7 @@ __Fork-Bearer of Freedom:__ "Forking is _sovereignty_. It is the right to say 'I
 
 ### Scene IV: The Parable of the Cathedral and the Bazaar
 
-__Fork-Bearer of Freedom:__ "Let me tell you a parable, taught to me by my friend the Saint of the Bazaar, about two ways of building software."
+__Fork-Bearer of Freedom:__ "Let me tell you a parable that has guided developers for generations, about two ways of building software—the Cathedral and the Bazaar."
 
 The air around them shimmered, and two visions appeared:
 
@@ -349,7 +357,7 @@ The Fourth GitScroll was complete. Five more awaited, and with each one, Tuxrate
 ---
 
 __Next: [GitScroll V - "The Wounding of Hubris"](05-Wounding-of-Hubris.md)__  
-_As taught by The Wise Maintainer, Guardian of Code That Lives_
+_Where hubris meets consequence in the Digital Underworld_
 
 ---
 

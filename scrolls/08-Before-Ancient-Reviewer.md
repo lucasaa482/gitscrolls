@@ -52,6 +52,8 @@ __Tuxilles:__ _(staring at the screen)_ "They're auditing everything. Every line
 
 Each blamed line told a story: the rushed hotfix from 2018 that still powered critical authentication flows. The "temporary" workaround from 2020 that had become permanent infrastructure. The elegant abstraction from 2022 that nobody else had ever understood well enough to maintain.
 
+His integrated scars pulsed in sequence—beak chip recognizing moral failures, eye flickers seeing through his own self-deceptions, chest crack feeling the weight of courage required to face judgment, flipper tingle warning against the temptation to hide or minimize past mistakes.
+
 **Emotional Beat: FEAR**
 
 The terror of permanent accountability. The weight of knowing that every keystroke becomes evidence, every commit a statement about your character that outlives your employment, your reputation, your memory of why you made those choices.
@@ -192,6 +194,8 @@ As Tuxilles stared at the simple function, all four of his scars began to throb 
 __Tuxilles:__ "She chose... serving over showing off."
 
 __The Ancient Reviewer:__ "Eternal code is not clever code. Eternal code is kind code. Code that does what users need rather than what developers find interesting."
+
+The memory surfaced unbidden—the Teacher of Lost Packets showing him his own "stuff and things" commit. "_Every commit message is a letter to the future._" He'd written letters of arrogance. Jennifer had written letters of service.
 
 **The Mirror of Self-Judgment**
 

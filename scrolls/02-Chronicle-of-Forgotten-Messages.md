@@ -66,11 +66,19 @@ Date: Wed Apr 20 11:23:15 2023
 stuff and things
 ```
 
+_Alongside the commit message appears an automated annotation:_
+
+__@TempleSentinel:__ "Commit message quality score: 2/100. Semantic content: negligible. Future maintainability impact: severe."
+
+__Teacher of Lost Packets:__ "Even our automated systems know when we fail to communicate. But do you listen to their warnings?"
+
 __Tuxicles:__ _(wincing)_ "Oh no… that's… that's from my early days."
 
 __Teacher:__ "Tell me, young Tux—if you encountered this commit in the wild, six months hence, with no memory of that April day… what would you know?"
 
 __Tuxicles:__ "Nothing. Absolutely nothing. I would curse my past self most thoroughly."
+
+The metallic taste from his morning's rebase adventure lingered faintly—a reminder of Linus the Elder's warning about rewriting history. Now he was learning that poorly written history was almost as bad as rewritten history.
 
 __Teacher:__ "And __that__, dear student, is why we call it the Repository of Remembrance. Every commit message is a letter to the future—to your teammates, to strangers who inherit your code, and most cruelly, to yourself."
 

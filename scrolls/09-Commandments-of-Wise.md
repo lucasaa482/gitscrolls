@@ -56,6 +56,8 @@ For the first time since his exile, Tuxilles felt something beyond redemption or
 
 __Tuxilles:__ _(typing with steady wings)_ "I'd be honored to help. Let's start with whatever you're working on. No question is too basic, and confusion is just clarity waiting for the right explanation."
 
+As he typed, his scars glowed gently—not in warning, but in recognition. He remembered his own confusion in the Lightning Fields, watching tests fail and succeed without understanding why. The Prophet of Red-Green had been patient then. Now it was his turn.
+
 ---
 
 ### Act I: The Sacred Grove Appears
@@ -149,6 +151,8 @@ __Tuxilles:__ _(writing with care that surprised even him)_ "First—this code w
 As he typed, the sapling in the Sacred Grove began to straighten and grow.
 
 _"Your error handling instincts are excellent. You're thinking about edge cases and user experience. That defensive approach? It shows you understand that production code needs to be robust. These aren't signs of inexperience—they're signs of good engineering intuition developing."_
+
+The approach reminded him of his younger self, before the catastrophe—but with better instincts. Where he had been arrogant, this developer was cautious. Where he had dismissed edge cases, they considered them carefully. The Fork-Bearer of Freedom's words echoed: "_Freedom is messy, wasteful, sometimes frustrating. But it is also innovative._" This code was messy with care, not carelessness.
 
 _"Let me address your specific concerns, not because your approach is wrong, but because I can share some patterns that might make you feel more confident..."_
 
